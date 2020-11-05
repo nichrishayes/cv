@@ -10,7 +10,7 @@ MEG Research Associate
 <div id="webaddress">
 nichrishayes | at | gmail | dot | com
 <br>
-<a href="https://nichrishayes.github.io/">Personal website</a>
+<!-- <a href="https://nichrishayes.github.io/">Personal website</a> -->
 </div>
 
 
