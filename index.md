@@ -207,12 +207,12 @@ Transcranial Magnetic Stimulation (NBS System 5.1)
 `2017`
 
 MRI Safety
-`December 2014 – Present`
+`2014 – Present`
 
 Collaborative Institutional Training Initiative (CITI), 
 IRB Biomedical and Social & Behavioral Combined 
 Researchers Curriculum
-`October 2014 – Present`
+`2014 – Present`
 
 ## SCIENTIFIC COMMUNITY OUTREACH
 
