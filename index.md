@@ -91,6 +91,8 @@ Wiesman, A. I., *Christopher-Hayes, N. J.*, Eastman, J. A., Heinrichs-Graham, E.
 
 Wiesman, A. I., *Christopher-Hayes, N. J.*, Wilson, T. W. (In prep). Stairway to memory: left-hemispheric alpha dynamics as a progressive visual memory store.
 
+Wiesman, A. I., Murman, D.L., May, P.E., Schantell, M.D., Losh, R.A., Johnson, H.J., Willet, M.P., Eastman, J.A., Rezich, M.T., *Christopher-Hayes, N.J.*, Knott, N., Houseman, L.L., Wolfson, S.L., Losh, K.L., Johnson, C.J., Wilson, T.W. (In prep). Spatio-spectral relationships between pathological neural dynamics and cognitive impairment along the Alzheimer's disease spectrum.
+
 Warren, D. E., Rangel, A. J., *Christopher-Hayes, N. J.*, Eastman, J. A., Frenzel, M., Stephen, J. M., Calhoun, V. D., Wang, Y.-P., Wilson, T. W. (Submitted). Resting-state functional connectivity of the human hippocampus in periadolescent children: associations with age and memory performance. Organization for Human Brain Mapping.
 
 Phipps, C.J., Rangel, A., *Christopher-Hayes, N. J.*, Phatak, V., Murman, D., Warren, D.E. (In prep). Measuring brain and cognitive changes in memory systems after targeted multiday repetitive transcranial magnetic stimulation of healthy young, healthy old, and amnestic mild cognitive impairment(aMCI) participants.
