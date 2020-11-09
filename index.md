@@ -98,6 +98,9 @@ Wiesman, A.I., __Christopher-Hayes, N. J.__, Eastman, J.A., Heinrichs-Graham, E.
 
 ### Under Review:
 
+__Christopher-Hayes, N. J.__, Lew, B.J., Wiesman, A. I., Wilson, T. W. Cannabis use impacts prestimulus visual oscillatory activity in people with HIV.
+
+
 Wiesman, A. I., __Christopher-Hayes, N. J.__, Wilson, T. W. Stairway to memory: left-hemispheric alpha dynamics as a progressive visual memory store.
 
 
@@ -105,9 +108,6 @@ Wiesman, A. I., Murman, D.L., May, P.E., Schantell, M.D., Losh, R.A., Johnson, H
 
 
 Warren, D. E., Rangel, A. J., __Christopher-Hayes, N. J.__, Eastman, J. A., Frenzel, M., Stephen, J. M., Calhoun, V. D., Wang, Y.-P., Wilson, T. W. Resting-state functional connectivity of the human hippocampus in periadolescent children: associations with age and memory performance. Human Brain Mapping.
-
-
-__Christopher-Hayes, N. J.__, Lew, B.J., Wiesman, A. I., Wilson, T. W. Cannabis use impacts prestimulus visual oscillatory activity in people with HIV.
 
 
 ### In prep:
@@ -184,7 +184,7 @@ __Christopher-Hayes, N. J.__, Hopkins, L. S., Helmstetter, F. J., Hannula, D. E.
 3D Slicer, Functional Magnetic Resonance Imaging Based *(FMRIB)* Software Library *(FSL)*, *FreeSurfer*, Analysis of Function Neuroimaging *(AFNI)*, Brain Electrical Source Analysis *(BESA)*, *Brainstorm*, Statistical Parametric Mapping *(SPM)*, *Fieldtrip*, Automated Segmentation of Hippocampal Subfields *(ASHS)*
 
 ### Hardware:
-Eye-Trac 6 & Eyelink 1000, Nexstim NBS 5.1
+Elekta MEGIN MEG System, Siemens Prisma 3T MRI System, Eye-Trac 6 & Eyelink 1000, Nexstim NBS 5.1
 
 ### Languages:
 __Python, Git, Bash, Matlab, Java, HTML__
