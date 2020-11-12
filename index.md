@@ -86,25 +86,25 @@ Participant scheduling; participant data collection using computerized tasks and
 ## FUNDING	
 ### Award:
 `2015`
-__Support for Undergraduate Research Fellows (SURF)__
-
+__Support for Undergraduate Research Fellows (SURF) $1,500__
+University of Wisconsin-Milwaukee
 
 ## PUBLICATIONS
 ### Published:
 
 `(2020)`
-Wiesman, A.I., __Christopher-Hayes, N. J.__, Eastman, J.A., Heinrichs-Graham, E., Wilson, T.W.. Response certainty during bimanual movements reduces gamma oscillations in primary motor cortex. NeuroImage 224, 117448. https://doi.org/10.1016/j.neuroimage.2020.117448
+Wiesman, A. I., __Christopher-Hayes, N. J.__, Eastman, J. A., Heinrichs-Graham, E., Wilson, T. W.. Response certainty during bimanual movements reduces gamma oscillations in primary motor cortex. NeuroImage 224, 117448. https://doi.org/10.1016/j.neuroimage.2020.117448
 
 
 ### Under Review:
 
-__Christopher-Hayes, N. J.__, Lew, B.J., Wiesman, A. I., Wilson, T. W. Cannabis use impacts prestimulus visual oscillatory activity in people with HIV.
+__Christopher-Hayes, N. J.__, Lew, B. J., Wiesman, A. I., Wilson, T. W. Cannabis use impacts prestimulus visual oscillatory activity in people with HIV.
 
 
 Wiesman, A. I., __Christopher-Hayes, N. J.__, Wilson, T. W. Stairway to memory: left-hemispheric alpha dynamics as a progressive visual memory store.
 
 
-Wiesman, A. I., Murman, D.L., May, P.E., Schantell, M.D., Losh, R.A., Johnson, H.J., Willet, M.P., Eastman, J.A., Rezich, M.T., __Christopher-Hayes, N.J.__, Knott, N., Houseman, L.L., Wolfson, S.L., Losh, K.L., Johnson, C.J., Wilson, T.W. Spatio-spectral relationships between pathological neural dynamics and cognitive impairment along the Alzheimer's disease spectrum.
+Wiesman, A. I., Murman, D.L., May, P. E., Schantell, M. D., Losh, R. A., Johnson, H. J., Willet, M. P., Eastman, J. A., Rezich, M. T., __Christopher-Hayes, N. J.__, Knott, N., Houseman, L. L., Wolfson, S. L., Losh, K. L., Johnson, C. J., Wilson, T. W. Spatio-spectral relationships between pathological neural dynamics and cognitive impairment along the Alzheimer's disease spectrum.
 
 
 Warren, D. E., Rangel, A. J., __Christopher-Hayes, N. J.__, Eastman, J. A., Frenzel, M., Stephen, J. M., Calhoun, V. D., Wang, Y.-P., Wilson, T. W. Resting-state functional connectivity of the human hippocampus in periadolescent children: associations with age and memory performance. Human Brain Mapping.
@@ -112,28 +112,28 @@ Warren, D. E., Rangel, A. J., __Christopher-Hayes, N. J.__, Eastman, J. A., Fren
 
 ### In prep:
 
-Phipps, C.J., Rangel, A., __Christopher-Hayes, N. J.__, Phatak, V., Murman, D., Warren, D.E. Measuring brain and cognitive changes in memory systems after targeted multiday repetitive transcranial magnetic stimulation of healthy young, healthy old, and amnestic mild cognitive impairment(aMCI) participants.
+Phipps, C. J., Rangel, A., __Christopher-Hayes, N. J.__, Phatak, V., Murman, D., Warren, D. E. Measuring brain and cognitive changes in memory systems after targeted multiday repetitive transcranial magnetic stimulation of healthy young, healthy old, and amnestic mild cognitive impairment(aMCI) participants.
 
 
-Phipps, C.J., __Christopher-Hayes, N. J.__, Torres-Russotto, D., Warren, D.E.. Measurement of functional brain network connectivity in people with orthostatic tremor using MRI and transcranial magnetic stimulation.
+Phipps, C. J., __Christopher-Hayes, N. J.__, Torres-Russotto, D., Warren, D. E.. Measurement of functional brain network connectivity in people with orthostatic tremor using MRI and transcranial magnetic stimulation.
 
 
 
 ## NATIONAL CONFERENCES
 `(2020)`
-Phipps, C.J., Rangel, A., __Christopher-Hayes, N. J.__, Phatak, V., Murman, D.L., Warren, D.E.. Measuring change in memory networks after targeted repetitive transcranial magnetic stimulation. Organization for Human Brain Mapping.
+Phipps, C. J., Rangel, A., __Christopher-Hayes, N. J.__, Phatak, V., Murman, D. L., Warren, D. E.. Measuring change in memory networks after targeted repetitive transcranial magnetic stimulation. Organization for Human Brain Mapping.
 
 
-`(2019)`Phipps, C.J., Rangel, A., __Christopher-Hayes, N. J.__, Phatak, V., Murman, D., Warren, D.E. Measuring brain and cognitive changes in memory systems after targeted multiday repetitive transcranial magnetic stimulation of healthy young, healthy old, and amnestic mild cognitive impairment(aMCI) participants. Alzheimer’s Association International Conference.
-
-`(2019)`
-Ellis, D.G., White, M.L., Hayasaka, H., __Christopher-Hayes, N. J.__, Warren, D.E., Wilson, T.W., Aizenberg, M.R. Accurate localization of primary motor cortex in brain tumor patients with DTI and deep learning. Radiological Society of North America.
+`(2019)`Phipps, C. J., Rangel, A., __Christopher-Hayes, N. J.__, Phatak, V., Murman, D. L., Warren, D. E. Measuring brain and cognitive changes in memory systems after targeted multiday repetitive transcranial magnetic stimulation of healthy young, healthy old, and amnestic mild cognitive impairment(aMCI) participants. Alzheimer’s Association International Conference.
 
 `(2019)`
-Ellis, D.G., White, M.L., Hayasaka, H., __Christopher-Hayes, N. J.__, Warren, D.E., Wilson, T.W., Aizenberg, M.R. Reliability of Functional Neuroimaging for Prediction of Eloquent Brain Function as Determined by Intraoperative Mapping in Brain Tumor Patients. Radiological Society of North America.
+Ellis, D. G., White, M. L., Hayasaka, H., __Christopher-Hayes, N. J.__, Warren, D. E., Wilson, T. W., Aizenberg, M. R. Accurate localization of primary motor cortex in brain tumor patients with DTI and deep learning. Radiological Society of North America.
 
 `(2019)`
-Datta, P.,  Samson, K.K., Warren, D.E., __Christopher-Hayes, N. J.__,  Malgireddy K.R. Assessment of clinical and imaging characteristics in medically refractory epilepsy with poor surgical outcomes. American Epilepsy Society.
+Ellis, D. G., White, M. L., Hayasaka, H., __Christopher-Hayes, N. J.__, Warren, D. E., Wilson, T. W., Aizenberg, M.R. Reliability of Functional Neuroimaging for Prediction of Eloquent Brain Function as Determined by Intraoperative Mapping in Brain Tumor Patients. Radiological Society of North America.
+
+`(2019)`
+Datta, P.,  Samson, K. K., Warren, D. E., __Christopher-Hayes, N. J.__,  Malgireddy K. R. Assessment of clinical and imaging characteristics in medically refractory epilepsy with poor surgical outcomes. American Epilepsy Society.
 
 `(2018)`
 Warren, D. E., __Christopher-Hayes, N. J.__, Rangel, A., Stephen, J. M., Calhoun, V. D., Wang, Y.-P., Wilson, T. W.. Measuring the relationship between memory performance and hippocampal structure/function in periadolescent children: a longitudinal investigation from the Dev-CoG project. Nanosymposium. Society for Neuroscience.
@@ -153,14 +153,10 @@ Hopkins, L. S., __Christopher-Hayes, N. J.__, Helmstetter, F. J., Hannula, D. E.
 
 
 
-
 ## REGIONAL CONFERENCES
 
 `(2019)`
-Phipps, C.J., __Christopher-Hayes, N. J.__, Torres-Russotto, D., Warren, D.E. Measurement of functional brain network connectivity in people with orthostatic tremor using MRI and transcranial magnetic stimulation. University of Nebraska Medical Center Annual Research Day. 
-
-`(2017)`
-__Christopher-Hayes, N. J.__. Neuroimaging and Neurostimulation in Alzheimer’s. Fremont Area Alzheimer’s Collaboration.
+Phipps, C. J., __Christopher-Hayes, N. J.__, Torres-Russotto, D., Warren, D. E. Measurement of functional brain network connectivity in people with orthostatic tremor using MRI and transcranial magnetic stimulation. University of Nebraska Medical Center Annual Research Day. 
 
 `(2017)`
 Pham, D., __Christopher-Hayes, N. J.__, Rangel, A., Stephen, J. M., Calhoun, V. D., Wang, Y.-P., Wilson, T. W., & Warren, D. E. Brain correlates of memory ability in youth. University of Nebraska Medical Center Summer Undergraduate Research Symposium.
@@ -172,13 +168,18 @@ Sajja, K., __Christopher-Hayes, N. J.__, Warren, D. E., Madhavan, D. Predicting 
 __Christopher-Hayes, N. J.__, Hopkins, L. S., Helmstetter, F. J., Hannula, D. E. Oculomotor capture by aversive stimuli. UW-Milwaukee Undergraduate Research Symposium.
 
 
+## INVITED TALKS
+
+`(2017)`
+__Christopher-Hayes, N. J.__. Neuroimaging and Neurostimulation in Alzheimer’s. Fremont Area Alzheimer’s Collaboration.
+
 
 <br>
 <br>
 <br>
 <br>
 <br>
-## RESEARCH COMPUTING
+## SYSTEMS AND COMPUTING
 
 ### Software:
 3D Slicer, Functional Magnetic Resonance Imaging Based *(FMRIB)* Software Library *(FSL)*, *FreeSurfer*, Analysis of Function Neuroimaging *(AFNI)*, Brain Electrical Source Analysis *(BESA)*, *Brainstorm*, Statistical Parametric Mapping *(SPM)*, *Fieldtrip*, Automated Segmentation of Hippocampal Subfields *(ASHS)*
@@ -189,25 +190,15 @@ Elekta MEGIN MEG System, Siemens Prisma 3T MRI System, Eye-Trac 6 & Eyelink 1000
 ### Languages:
 __Python, Git, Bash, Matlab, Java, HTML__
 
+### Research Lab Systems:
+MoinMoin Wiki (Python/Linux)
+
 ### Authored Packages: 
 __1) ArtifactScanTool (AST) – A Matlab-based package for automated statistical identification, rejection, and plotting of artifactual MEG channels and epochs. Versions available for BESA and Brainstorm software packages__
 
 __2) PyStiMEP – A Python-based package for automated neurostimulation event-related motor evoked potential (MEP) identification, extraction, and plotting__
 
-### Research Lab Systems:
-MoinMoin Wiki (Python/Linux)
-
-
-
-
-
-
-## OTHER COMPUTING	
-
-### Authored Packages:
-__1) Snapshot – A Python-based package for basic financial management and monthly reporting__
-
-
+__3) Snapshot – A Python-based package for basic financial management and monthly reporting__
 
 
 
@@ -259,27 +250,27 @@ Researchers Curriculum
 
 ## SCIENTIFIC COMMUNITY OUTREACH
 
-Science Education Outreach and Engagement Program, The University of Nebraska Medical Center’s Science Education Partnership Award (SEPA) - Accelerating access: health science education in Native American communities & The National Cancer Institute’s Youth Enjoy Science Research Program (YES) (Native American 5th grade students, Science Summer Camp)
+*Science Education Outreach and Engagement Program*, The University of Nebraska Medical Center’s Science Education Partnership Award (SEPA) - Accelerating access: health science education in Native American communities & The National Cancer Institute’s Youth Enjoy Science Research Program (YES) (Native American 5th grade students, Science Summer Camp)
 `2019`
 
-Fremont Area Alzheimer’s Collaboration, Memory Walk
+*Fremont Area Alzheimer’s Collaboration*, Memory Walk
 `2016 – 2017`
 
-Federal TRIO Program, Upward Bound Math-Science
+*Federal TRIO Program*, Upward Bound Math-Science
 `2014 & 2015`
 
-New Horizons Un-Limited Inc. - Independent Disabilities Advocacy and Rehabilitation Center for Computer Training, Refurbishing, and Workforce Preparation, in Association with the Wisconsin Department of Vocational Rehabilitation
+*New Horizons Un-Limited Inc.* - Independent Disabilities Advocacy and Rehabilitation Center for Computer Training, Refurbishing, and Workforce Preparation, in Association with the Wisconsin Department of Vocational Rehabilitation
 `2012`
 
 ## EXTRACURRICULAR ACTIVITIES
 
-Avid English Premiere League Observer, Photographer sometimes, Guitarist almost, Pianist once upon a time, Soccer when I feel young, Snowmobiling please, Boating with the right drink, Hiking seems healthy, Programming inseparable, Opensource fanatic
+Avid English Premiere League Observer, Photographer sometimes, Guitarist almost, Pianist once upon a time, Soccer when I feel young, Snowmobiling please, Boating with buoyancy, Hiking seems healthy, Programming inseparable, Opensource fanatic
 
 
 
 ## RESEARCH REFERENCES
 
-*Dr. Tony W. Wilson*
+__Dr. Tony W. Wilson__
 Associate Professor, Department of Neurological Sciences
 University of Nebraska Medical Center
 988440 Nebraska Medical Center
@@ -287,7 +278,7 @@ Omaha, NE 68198-8440
 402-559-6444
 twwilson@unmc.edu
 
-*Dr. Deborah E. Hannula*
+__Dr. Deborah E. Hannula__
 Associate Professor, Associate Chair, Department of Psychology
 University of Wisconsin-Milwaukee
 Garland Hall
@@ -296,7 +287,7 @@ Milwaukee, WI 53201
 (414) 229-4158
 hannula@uwm.edu
 
-*Dr. Alex I. Wiesman*
+__Dr. Alex I. Wiesman__
 National Institutes of Health Postdoctoral Fellow
 Montreal Neurological Institute
 McGill University
@@ -304,7 +295,7 @@ McGill University
 (402) 203-1397
 aiwiesman@gmail.com
 
-*Dr. Daniel L. Murman, MD, MS, FAAN*
+__Dr. Daniel L. Murman, MD, MS, FAAN__
 Director, Behavioral and Geriatric Neurology Program
 Professor, Department of Neurological Sciences
 University of Nebraska Medical Center
