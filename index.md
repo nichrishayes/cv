@@ -117,7 +117,7 @@ __Christopher-Hayes, N. J.__, Lew, B. J., Wiesman, A. I., Wilson, T. W. Cannabis
 Wiesman, A. I., __Christopher-Hayes, N. J.__, Wilson, T. W. Stairway to memory: left-hemispheric alpha dynamics as a progressive visual memory store. NeuroImage. (Submitted 11/16/20).
 
 
-Wiesman, A. I., Murman, D.L., May, P. E., Schantell, M. D., Losh, R. A., Johnson, H. J., Willet, M. P., Eastman, J. A., Rezich, M. T., __Christopher-Hayes, N. J.__, Knott, N., Houseman, L. L., Wolfson, S. L., Losh, K. L., Johnson, C. J., Wilson, T. W. Spatio-spectral relationships between pathological neural dynamics and cognitive impairment along the Alzheimer's disease spectrum.
+Wiesman, A. I., Murman, D.L., May, P. E., Schantell, M. D., Losh, R. A., Johnson, H. J., Willet, M. P., Eastman, J. A., Rezich, M. T., __Christopher-Hayes, N. J.__, Knott, N., Houseman, L. L., Wolfson, S. L., Losh, K. L., Johnson, C. J., Wilson, T. W. Spatio-spectral relationships between pathological neural dynamics and cognitive impairment along the Alzheimer's disease spectrum. Alzheimer's & Dementia. (Submitted 11/16/20).
 
 
 Warren, D. E., Rangel, A. J., __Christopher-Hayes, N. J.__, Eastman, J. A., Frenzel, M., Stephen, J. M., Calhoun, V. D., Wang, Y.-P., Wilson, T. W. Resting-state functional connectivity of the human hippocampus in periadolescent children: associations with age and memory performance. Human Brain Mapping. (Submitted 09/12/20).
