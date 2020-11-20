@@ -22,7 +22,7 @@ nichrishayes | at | gmail | dot | com
 `2011  –  2015`
 __Bachelor of Arts, Psychology, University of Wisconsin-Milwaukee (UWM)__
 
-__Relevant Courses__:    Child Psychology, Psychological Statistics; Research Methods; Neuropsychology; Advanced Physiological Psychology; Cellular & Molecular Neuroscience; Brain Injury; Cognitive Neuroscience; Computer Science (Java 1); Computer Science (Java 2).
+__Relevant Courses__:    Child Psychology, Psychological Statistics, Research Methods, Neuropsychology, Advanced Physiological Psychology, Cellular & Molecular Neuroscience, Brain Injury, Cognitive Neuroscience, Computer Science (Java 1), Computer Science (Java 2)
 
 __Senior Research Project__:_Oculomotor capture by aversive stimuli_
 
@@ -37,17 +37,17 @@ __University of Nebraska Medical Center, Department of Neurological Sciences__
 
 __MEG Research Associate__
 
-*Processing and analysis of Magnetic Resonance Imaging (MRI), Magnetoencephalography (MEG), Positron Emission Tomography (PET), Arterial Spin Labelling (ASL), and Electromyography (EMG) data
+-Processing and analysis of Magnetic Resonance Imaging (MRI), Magnetoencephalography (MEG), Positron Emission Tomography (PET), Arterial Spin Labelling (ASL), and Electromyography (EMG) data
 
-*Processing pipeline and toolbox development
+-Processing pipeline and toolbox development
 
-*Computer and data management
+-Computer and data management
 
-*Lab wiki development and maintenance
+-Lab wiki development and maintenance
 
-*Research study and cognitive task development
+-Research study and cognitive task development
 
-*Prepare materials for inclusion in scholarly conference presentations and publications
+-Manuscript and figure preparation for inclusion in scholarly conference presentations and publications
 
 ### Warren Neuroscience Lab:
 `2016  –  2019`
@@ -57,15 +57,15 @@ __University of Nebraska Medical Center, Department of Neurological Sciences__
 
 __Clinical Research Associate___
 
-*Participant data collection with MRI, MEG, Transcranial Magnetic Stimulation (TMS), computerized tasks, and Eye-tracking
+-Participant data collection with MRI, MEG, Transcranial Magnetic Stimulation (TMS), computerized tasks, and Eye-tracking
 
-*Data processing and quality control
+-Data processing and quality control
 
-*Computer and data management
+-Computer and data management
 
-*Develop and implement research study protocols
+-Develop and implement research study protocols
 
-*Prepare materials for inclusion in scholarly conference presentations and publications
+-Manuscript and figure preparation for inclusion in scholarly conference presentations and publications
 
 ### MINDfull of Memory Lab:
 `2016  –  2019`
@@ -75,11 +75,11 @@ __University of Wisconsin-Milwaukee, Department of Psychology__
 
 __Research Assistant__
 
-*Participant data collection with computerized tasks and Eye-tracking hardware
+-Participant data collection with computerized tasks and Eye-tracking hardware
 
-*Behavioral and Eye-tracking data analysis
+-Behavioral and Eye-tracking data analysis
 
-*Present and lead discussion in weekly lab meetings
+-Present and lead discussion in weekly lab meetings
 
 <br>
 
@@ -127,10 +127,9 @@ Warren, D. E., Rangel, A. J., __Christopher-Hayes, N. J.__, Eastman, J. A., Fren
 
 Phipps, C. J., Rangel, A., __Christopher-Hayes, N. J.__, Phatak, V., Murman, D., Warren, D. E. Measuring brain and cognitive changes in memory systems after targeted multiday repetitive transcranial magnetic stimulation of healthy young, healthy old, and amnestic mild cognitive impairment(aMCI) participants.
 
-
 Phipps, C. J., __Christopher-Hayes, N. J.__, Torres-Russotto, D., Warren, D. E.. Measurement of functional brain network connectivity in people with orthostatic tremor using MRI and transcranial magnetic stimulation.
 
-## NATIONAL CONFERENCES
+## INTER/NATIONAL CONFERENCES
 <br>
 Phipps, C. J., Rangel, A., __Christopher-Hayes, N. J.__, Phatak, V., Murman, D. L., Warren, D. E. (2020). Measuring change in memory networks after targeted repetitive transcranial magnetic stimulation. Organization for Human Brain Mapping.
 
@@ -180,6 +179,8 @@ __Christopher-Hayes, N. J.__. Neuroimaging and Neurostimulation in Alzheimer’s
 
 ### Authored Packages: 
 1) __ArtifactScanTool (AST)__ – A Matlab-based package for automated statistical identification, rejection, and plotting of artifactual MEG channels and epochs. Versions available for BESA and Brainstorm software packages
+
+<br>
 
 2) __PyStiMEP__ – A Python-based package for automated neurostimulation event-related motor evoked potential (MEP) identification, extraction, and plotting
 
