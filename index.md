@@ -231,8 +231,8 @@ Associate Professor, Department of Neurological Sciences
 University of Nebraska Medical Center
 988440 Nebraska Medical Center
 Omaha, NE 68198-8440
-402-559-6444
-twwilson@unmc.edu
+402-214-5210
+tony.w.wilson@gmail.com
 
 __Dr. Deborah E. Hannula__
 Associate Professor, Associate Chair, Department of Psychology
@@ -240,7 +240,7 @@ University of Wisconsin-Milwaukee
 Garland Hall
 P.O. Box 413
 Milwaukee, WI 53201
-(414) 229-4158
+414-229-4158
 hannula@uwm.edu
 
 __Dr. Alex I. Wiesman__
@@ -248,7 +248,7 @@ National Institutes of Health Postdoctoral Fellow
 Montreal Neurological Institute
 McGill University
 3801 Rue University | Montréal, QC H3A 2B4
-(402) 203-1397
+402-203-1397
 aiwiesman@gmail.com
 
 __Dr. Daniel L. Murman, MD, MS, FAAN__
@@ -257,7 +257,7 @@ Professor, Department of Neurological Sciences
 University of Nebraska Medical Center
 988440 Nebraska Medical Center
 Omaha, NE 68198-8440
-(402) 559-6591
+402-559-6591
 dlmurman@unmc.edu
 
 
