@@ -179,6 +179,7 @@ __Christopher-Hayes, N. J.__. Neuroimaging and Neurostimulation in Alzheimer’s
 
 ### Authored Packages: 
 1) __ArtifactScanTool (AST)__ – A Matlab-based package for automated statistical identification, rejection, and plotting of artifactual MEG channels and epochs. Versions available for BESA and Brainstorm software packages
+
 https://github.com/nichrishayes/Brainstorm_ArtifactScanTool
 <br>
 
