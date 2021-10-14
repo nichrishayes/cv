@@ -139,6 +139,8 @@ __Support for Undergraduate Research Fellows, Summer 2015 ($1,500)__, University
 
 • __Christopher-Hayes, N. J.__, Embury, C. M., Wiesman, A. I., May, P. E., Schantell, M., Johnson, C. M., Wolfson, S. L., Murman, D. L., Wilson, T. W. Piecing it together: hippocampal subfield profiles relate to cognitive impairment along the Alzheimer’s disease spectrum.
 
+• Picci, G., __Christopher-Hayes, N. J.__, Petro, N., Wilson, T. W. Brain mediated adaptation following trauma in typically developing youth: A preliminary study.
+
 • Phipps, C. J., Rangel, A., __Christopher-Hayes, N. J.__, Phatak, V., Murman, D., Warren, D. E. Measuring brain and cognitive changes in memory systems after targeted multiday repetitive transcranial magnetic stimulation of healthy young, healthy old, and amnestic mild cognitive impairment(aMCI) participants.
 
 • Phipps, C. J., __Christopher-Hayes, N. J.__, Torres-Russotto, D., Warren, D. E.. Measurement of functional brain network connectivity in people with orthostatic tremor using MRI and transcranial magnetic stimulation.
