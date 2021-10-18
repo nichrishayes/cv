@@ -1,2 +1,3 @@
 markdown:   kramdown
 style:  nch
+port: 3000 # change server port from 4000 (NoMachine)

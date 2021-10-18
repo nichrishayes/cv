@@ -177,7 +177,7 @@ cognitive tasks in children. Cognitive Neuroscience Society.
 ## REGIONAL CONFERENCES
 • Phipps, C. J., __Christopher-Hayes, N. J.__, Torres-Russotto, D., Warren, D. E. (2019). Measurement of functional brain network connectivity in people with orthostatic tremor using MRI and transcranial magnetic stimulation. University of Nebraska Medical Center Annual Research Day. 
 
-<!--<br> -->
+<!-- <br> -->
 • Pham, D., __Christopher-Hayes, N. J.__, Rangel, A., Stephen, J. M., Calhoun, V. D., Wang, Y.-P., Wilson, T. W., & Warren, D. E. (2017). Brain correlates of memory ability in youth. University of Nebraska Medical Center Summer Undergraduate Research Symposium.
 
 • Sajja, K., __Christopher-Hayes, N. J.__, Warren, D. E., Madhavan, D. (2017). Predicting outcomes after corpus callosotomy using FreeSurfer for processing and analyzing pre-surgical MRI images. University of Nebraska Medical Center Annual Research Day.
@@ -232,16 +232,26 @@ TMS (NBS System 5.1),    MRI Safety,    CITI
 ## HOBBIES
 Avid English Premiere League Observer, Photographer sometimes, Guitarist almost, Pianist once upon a time, Soccer when I feel young, Snowmobiling please, Boating with buoyancy, Hiking seems healthy, Programming inseparable, Opensource fanatic
 
-
-<!-- <br><br><br><br><br><br><br><br><br><br><br> -->
+<!--<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>-->
 ## RESEARCH REFERENCES
+__Dr. Simona Ghetti__
+Professor and Vice-Chair for Undergraduate Education
+Department of Psychology and
+Center for Mind and Brain
+University of California, Davis
+One Shields Avenue
+Davis, CA 95616
+sghetti@ucdavis.edu
+
 __Dr. Tony W. Wilson__
-Associate Professor, Department of Neurological Sciences
-University of Nebraska Medical Center
-988440 Nebraska Medical Center
-Omaha, NE 68198-8440
-402-214-5210
-tony.w.wilson@gmail.com
+Patrick E. Brookhouser Endowed Chair in Cognitive Neuroscience
+Director, Institute for Human Neuroscience
+Boys Town National
+Research Hospital
+14090 Mother Teresa Lane
+Boys Town, NE 68010
+531-355-8909
+tony.wilson@boystown.org
 
 __Dr. Deborah E. Hannula__
 Associate Professor, Associate Chair, Department of Psychology
@@ -268,7 +278,6 @@ University of Nebraska Medical Center
 Omaha, NE 68198-8440
 402-559-6591
 dlmurman@unmc.edu
-
 
 <!-- ### Footer
 Nicholas Christopher-Hayes
