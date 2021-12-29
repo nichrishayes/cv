@@ -11,9 +11,8 @@ title: Nicholas Christopher-Hayes's CV
 __Doctoral Student__
 
 <div id="webaddress">
-nichrishayes | at | gmail | dot | com
-<br>
-<a href="https://nichrishayes.github.io/">Personal website</a>
+	nichrishayes | at | gmail | dot | com
+	<br><a href="https://nichrishayes.github.io/">Personal website</a>
 </div>
 
 
@@ -45,7 +44,7 @@ __Doctoral Student__
 
 
 ### DICoN Lab:
-`2019  –  2021`
+`2018  –  2021`
 __PI: Dr. Tony W. Wilson__
 
 __University of Nebraska Medical Center, Department of Neurological Sciences__
@@ -63,6 +62,7 @@ __MEG Research Associate__
 -Research study and cognitive task development
 
 -Manuscript and figure preparation for inclusion in scholarly conference presentations and publications
+
 
 ### Warren Neuroscience Lab:
 `2016  –  2019`
@@ -83,7 +83,7 @@ __Clinical Research Associate___
 -Manuscript and figure preparation for inclusion in scholarly conference presentations and publications
 
 ### MINDfull of Memory Lab:
-`2016  –  2019`
+`2013  –  2016`
 __PI: Dr. Deborah E. Hannula__
 
 __University of Wisconsin-Milwaukee, Department of Psychology__
@@ -116,77 +116,80 @@ __Support for Undergraduate Research Fellows, Summer 2015 ($1,500)__, University
 
 ## PUBLICATIONS
 ### Published:
+<!-- • -->
 
-• __Christopher-Hayes, N. J.__, Lew, B. J., Wiesman, A. I., Schantell, M., O’Neill, J., May, P. E., Swindells, S., Wilson, T. W. (2021). Cannabis use impacts pre-stimulus neural activity in the visual cortices of people with HIV. Human Brain Mapping. <a href="https://doi.org/10.1002/hbm.25634">Public Link</a>
+__Christopher-Hayes, N. J.__, Lew, B. J., Wiesman, A. I., Schantell, M., O’Neill, J., May, P. E., Swindells, S., Wilson, T. W. (2021). Cannabis use impacts pre-stimulus neural activity in the visual cortices of people with HIV. Human Brain Mapping. <a href="https://doi.org/10.1002/hbm.25634">Public Link</a>
 
-• Wiesman, A. I., __Christopher-Hayes, N. J.__, Wilson, T. W. (2021b). Stairway to memory: Left-hemispheric alpha dynamics index the progressive loading of items into a short-term store. NeuroImage 235, 118024. <a href="https://doi.org/10.1016/j.neuroimage.2021.118024">Public Link</a>
+Wiesman, A. I., __Christopher-Hayes, N. J.__, Wilson, T. W. (2021b). Stairway to memory: Left-hemispheric alpha dynamics index the progressive loading of items into a short-term store. NeuroImage 235, 118024. <a href="https://doi.org/10.1016/j.neuroimage.2021.118024">Public Link</a>
 
-• Warren, D. E., Rangel, A. J., __Christopher‐Hayes, N. J.__, Eastman, J. A., Frenzel, M. R., Stephen, J. M., Calhoun, V. D., Wang, Y., Wilson, T. W. (2021). Resting‐state functional connectivity of the human hippocampus in periadolescent children: Associations with age and memory performance. Human Brain Mapping. <a href="https://doi.org/10.1002/hbm.25458">Public Link</a>
+Warren, D. E., Rangel, A. J., __Christopher‐Hayes, N. J.__, Eastman, J. A., Frenzel, M. R., Stephen, J. M., Calhoun, V. D., Wang, Y., Wilson, T. W. (2021). Resting‐state functional connectivity of the human hippocampus in periadolescent children: Associations with age and memory performance. Human Brain Mapping. <a href="https://doi.org/10.1002/hbm.25458">Public Link</a>
 
-• Wiesman, A. I., Murman, D. L., May, P. E., Schantell, M., Losh, R. A., Johnson, H. J., Willet, M. P., Eastman, J. A., __Christopher‐Hayes, N. J.__, Knott, N. L., Houseman, L. L., Wolfson, S. L., Losh, K. L., Johnson, C. M., Wilson, T. W. (2021c). Spatio‐spectral relationships between pathological neural dynamics and cognitive impairment along the Alzheimer’s disease spectrum. Alzheimer’s &amp; Dementia: Diagnosis, Assessment &amp; Disease Monitoring 13. <a href="https://doi.org/10.1002/dad2.12200">Public Link</a>
+Wiesman, A. I., Murman, D. L., Losh, R. A., Schantell, M., __Christopher‐Hayes, N. J.__, Johnson, H. J., Willet, M. P., Wolfson, S. L., Losh, K. L., Johnson, C. M., May, P. E., Wilson, T. W. Spatially resolved neural slowing predicts impairment and amyloid burden in Alzheimer’s disease. (Accepted, BRAIN, 2021). <a href="#">Public Link Coming Soon</a>
 
-• Wiesman, A. I., __Christopher-Hayes, N. J.__, Eastman, J. A., Heinrichs-Graham, E., Wilson, T. W. (2021). Response certainty during bimanual movements reduces gamma oscillations in primary motor cortex. NeuroImage 224, 117448. <a href="https://doi.org/10.1016/j.neuroimage.2020.117448">Public Link</a>
+Wiesman, A. I., Murman, D. L., May, P. E., Schantell, M., Losh, R. A., Johnson, H. J., Willet, M. P., Eastman, J. A., __Christopher‐Hayes, N. J.__, Knott, N. L., Houseman, L. L., Wolfson, S. L., Losh, K. L., Johnson, C. M., Wilson, T. W. (2021c). Spatio‐spectral relationships between pathological neural dynamics and cognitive impairment along the Alzheimer’s disease spectrum. Alzheimer’s &amp; Dementia: Diagnosis, Assessment &amp; Disease Monitoring 13. <a href="https://doi.org/10.1002/dad2.12200">Public Link</a>
 
-• Arif, Y., Wiesman, A. I., __Christopher-Hayes, N. J.__, Wilson, T. W. (2021). Aberrant inhibitory processing in the somatosensory cortices of cannabis-users. Journal of Psychopharmacology. <a href="#">Public Link Coming Soon</a>
+Wiesman, A. I., __Christopher-Hayes, N. J.__, Eastman, J. A., Heinrichs-Graham, E., Wilson, T. W. (2021). Response certainty during bimanual movements reduces gamma oscillations in primary motor cortex. NeuroImage 224, 117448. <a href="https://doi.org/10.1016/j.neuroimage.2020.117448">Public Link</a>
+
+Arif, Y., Wiesman, A. I., __Christopher-Hayes, N. J.__, Wilson, T. W. (2021). Aberrant inhibitory processing in the somatosensory cortices of cannabis-users. Journal of Psychopharmacology. <a href="https://doi.org/10.1177/02698811211050557">Public Link</a>
 
 <br>
 ### Under Review:
 
-• Wiesman, A. I., Murman, D. L., Losh, R. A., Schantell, M., __Christopher‐Hayes, N. J.__, Johnson, H. J., Willet, M. P., Wolfson, S. L., Losh, K. L., Johnson, C. M., May, P. E., Wilson, T. W. Spatially resolved neural slowing predicts impairment and amyloid burden in Alzheimer’s disease. (BRAIN, 2021).
+Picci, G., __Christopher-Hayes, N. J.__, Petro, N., Wilson, T. W. Brain mediated adaptation following trauma in typically developing youth: A preliminary study. (Neurobiology of Stress, 2021).
+
+Springer, S.D., Wiesman, A. I., May, P. E., Schantell, M., Johnson, H. J., Willet, M. P.,  Eastman, J.A., __Christopher‐Hayes, N. J.__, Wolfson, S. L., Johnson, C. M., Murman, D. L., Wilson, T. W. Altered Visual Entrainment in Patients with Alzheimer’s Disease: MEG Evidence. (Brain Communications, 2021).
 
 <br>
 ### In prep:
 
-• __Christopher-Hayes, N. J.__, Embury, C. M., Wiesman, A. I., May, P. E., Schantell, M., Johnson, C. M., Wolfson, S. L., Murman, D. L., Wilson, T. W. Piecing it together: hippocampal subfield profiles relate to cognitive impairment along the Alzheimer’s disease spectrum.
+__Christopher-Hayes, N. J.__, Embury, C. M., Wiesman, A. I., May, P. E., Schantell, M., Johnson, C. M., Wolfson, S. L., Murman, D. L., Wilson, T. W. Piecing it together: hippocampal subfield profiles relate to cognitive impairment along the Alzheimer’s disease spectrum.
 
-• Picci, G., __Christopher-Hayes, N. J.__, Petro, N., Wilson, T. W. Brain mediated adaptation following trauma in typically developing youth: A preliminary study.
+Phipps, C. J., Rangel, A., __Christopher-Hayes, N. J.__, Phatak, V., Murman, D., Warren, D. E. Measuring brain and cognitive changes in memory systems after targeted multiday repetitive transcranial magnetic stimulation of healthy young, healthy old, and amnestic mild cognitive impairment(aMCI) participants.
 
-• Phipps, C. J., Rangel, A., __Christopher-Hayes, N. J.__, Phatak, V., Murman, D., Warren, D. E. Measuring brain and cognitive changes in memory systems after targeted multiday repetitive transcranial magnetic stimulation of healthy young, healthy old, and amnestic mild cognitive impairment(aMCI) participants.
-
-• Phipps, C. J., __Christopher-Hayes, N. J.__, Torres-Russotto, D., Warren, D. E.. Measurement of functional brain network connectivity in people with orthostatic tremor using MRI and transcranial magnetic stimulation.
+Phipps, C. J., __Christopher-Hayes, N. J.__, Torres-Russotto, D., Warren, D. E.. Measurement of functional brain network connectivity in people with orthostatic tremor using MRI and transcranial magnetic stimulation.
 
 <!-- <br><br> -->
 ## INTER/NATIONAL CONFERENCES
-• __Christopher-Hayes, N. J.__, Embury, C. M., Wiesman, A. I., May, P. E., Schantell, M., Johnson, C. M., Wolfson, S. L., Murman, D. L., Wilson, T. W. (2021). Piecing it together: relationships between hippocampal subfields and cognitive impairment alongthe Alzheimer’s disease spectrum. Alzheimer’s Association International Conference.
+__Christopher-Hayes, N. J.__, Embury, C. M., Wiesman, A. I., May, P. E., Schantell, M., Johnson, C. M., Wolfson, S. L., Murman, D. L., Wilson, T. W. (2021). Piecing it together: relationships between hippocampal subfields and cognitive impairment alongthe Alzheimer’s disease spectrum. Alzheimer’s Association International Conference.
 
-• __Christopher-Hayes, N. J.__, Embury, C. M., Wiesman, A. I., May, P. E., Schantell, M., Johnson, C. M., Wolfson, S. L., Murman, D. L., Wilson, T. W. (2021). Hippocampal subfield profiles relate to cognitive impairment alongthe Alzheimer’s disease spectrum. Organization for Human Brain Mapping.
+__Christopher-Hayes, N. J.__, Embury, C. M., Wiesman, A. I., May, P. E., Schantell, M., Johnson, C. M., Wolfson, S. L., Murman, D. L., Wilson, T. W. (2021). Hippocampal subfield profiles relate to cognitive impairment alongthe Alzheimer’s disease spectrum. Organization for Human Brain Mapping.
 
-• Jing, R., __Christopher-Hayes, N. J.__, Rangel, A. J., Murman, D. L., Warren, D. E. (2020). Effect of Targeted Transcranial Magnetic Stimulation on Memory Performance in Older Adults with Amnestic Mild Cognitive Impairment. Journal of the American Geriatrics Society.
+Jing, R., __Christopher-Hayes, N. J.__, Rangel, A. J., Murman, D. L., Warren, D. E. (2020). Effect of Targeted Transcranial Magnetic Stimulation on Memory Performance in Older Adults with Amnestic Mild Cognitive Impairment. Journal of the American Geriatrics Society.
 
-• Phipps, C. J., Rangel, A., __Christopher-Hayes, N. J.__, Phatak, V., Murman, D. L., Warren, D. E. (2020). Measuring change in memory networks after targeted repetitive transcranial magnetic stimulation. Organization for Human Brain Mapping.
+Phipps, C. J., Rangel, A., __Christopher-Hayes, N. J.__, Phatak, V., Murman, D. L., Warren, D. E. (2020). Measuring change in memory networks after targeted repetitive transcranial magnetic stimulation. Organization for Human Brain Mapping.
 
-• Phipps, C. J., Rangel, A., __Christopher-Hayes, N. J.__, Phatak, V., Murman, D. L., Warren, D. E. (2019). Measuring brain and cognitive changes in memory systems after targeted multiday repetitive transcranial magnetic stimulation of healthy young, healthy old, and amnestic mild cognitive impairment(aMCI) participants. Alzheimer’s Association International Conference.
+Phipps, C. J., Rangel, A., __Christopher-Hayes, N. J.__, Phatak, V., Murman, D. L., Warren, D. E. (2019). Measuring brain and cognitive changes in memory systems after targeted multiday repetitive transcranial magnetic stimulation of healthy young, healthy old, and amnestic mild cognitive impairment(aMCI) participants. Alzheimer’s Association International Conference.
 
-• Ellis, D. G., White, M. L., Hayasaka, H., __Christopher-Hayes, N. J.__, Warren, D. E., Wilson, T. W., Aizenberg, M. R. (2019). Accurate localization of primary motor cortex in brain tumor patients with DTI and deep learning. Radiological Society of North America.
+Ellis, D. G., White, M. L., Hayasaka, H., __Christopher-Hayes, N. J.__, Warren, D. E., Wilson, T. W., Aizenberg, M. R. (2019). Accurate localization of primary motor cortex in brain tumor patients with DTI and deep learning. Radiological Society of North America.
 
-• Ellis, D. G., White, M. L., Hayasaka, H., __Christopher-Hayes, N. J.__, Warren, D. E., Wilson, T. W., Aizenberg, M.R. (2019). Reliability of Functional Neuroimaging for Prediction of Eloquent Brain Function as Determined by Intraoperative Mapping in Brain Tumor Patients. Radiological Society of North America.
+Ellis, D. G., White, M. L., Hayasaka, H., __Christopher-Hayes, N. J.__, Warren, D. E., Wilson, T. W., Aizenberg, M.R. (2019). Reliability of Functional Neuroimaging for Prediction of Eloquent Brain Function as Determined by Intraoperative Mapping in Brain Tumor Patients. Radiological Society of North America.
 
-• Datta, P.,  Samson, K. K., Warren, D. E., __Christopher-Hayes, N. J.__,  Malgireddy K. R. (2019). Assessment of clinical and imaging characteristics in medically refractory epilepsy with poor surgical outcomes. American Epilepsy Society.
+Datta, P.,  Samson, K. K., Warren, D. E., __Christopher-Hayes, N. J.__,  Malgireddy K. R. (2019). Assessment of clinical and imaging characteristics in medically refractory epilepsy with poor surgical outcomes. American Epilepsy Society.
 
-• Warren, D. E., __Christopher-Hayes, N. J.__, Rangel, A., Stephen, J. M., Calhoun, V. D., Wang, Y.-P., Wilson, T. W. (2018). Measuring the relationship between memory performance and hippocampal structure/function in periadolescent children: a longitudinal investigation from the Dev-CoG project. Nanosymposium. Society for Neuroscience.
+Warren, D. E., __Christopher-Hayes, N. J.__, Rangel, A., Stephen, J. M., Calhoun, V. D., Wang, Y.-P., Wilson, T. W. (2018). Measuring the relationship between memory performance and hippocampal structure/function in periadolescent children: a longitudinal investigation from the Dev-CoG project. Nanosymposium. Society for Neuroscience.
 
-• __Christopher-Hayes, N. J.__, Rangel, A., Stephen, J. M., Calhoun, V. D., Wang, Y.-P., Wilson, T. W., & Warren, D. E. (2017). Adolescent changes in hippocampal volume and functional connectivity affect memory performance. Organization for Human Brain Mapping.
+__Christopher-Hayes, N. J.__, Rangel, A., Stephen, J. M., Calhoun, V. D., Wang, Y.-P., Wilson, T. W., & Warren, D. E. (2017). Adolescent changes in hippocampal volume and functional connectivity affect memory performance. Organization for Human Brain Mapping.
 
-• Spooner, R. K., __Christopher-Hayes, N. J.__, Stephen, J. M., Calhoun, V. D., Wang, Y.-P., Wilson, T. W., & Warren, D. E. (2017). Intrinsic functional connectivity of the striatum covaries with cognitive performance in adolescents. Organization for Human Brain Mapping.
+Spooner, R. K., __Christopher-Hayes, N. J.__, Stephen, J. M., Calhoun, V. D., Wang, Y.-P., Wilson, T. W., & Warren, D. E. (2017). Intrinsic functional connectivity of the striatum covaries with cognitive performance in adolescents. Organization for Human Brain Mapping.
 
-• Spooner, R. K., __Christopher-Hayes, N. J.__, Stephen, J. M., Calhoun, V. D., Wang, Y.-P., Wilson, T. W., & Warren, D. E. (2017). Childhood development of behavioral and brain network changes related to basal ganglia: resting-state functional connectivity of striatal regions varies with performance on
+Spooner, R. K., __Christopher-Hayes, N. J.__, Stephen, J. M., Calhoun, V. D., Wang, Y.-P., Wilson, T. W., & Warren, D. E. (2017). Childhood development of behavioral and brain network changes related to basal ganglia: resting-state functional connectivity of striatal regions varies with performance on
 cognitive tasks in children. Cognitive Neuroscience Society.
 
-• Hopkins, L. S., __Christopher-Hayes, N. J.__, Helmstetter, F. J., Hannula, D. E. (2016). Contingency awareness is not required for fear conditioned capture of attention. Visual Sciences Society. <a href="https://doi.org/10.1167/16.12.1020">Public Link</a>
+Hopkins, L. S., __Christopher-Hayes, N. J.__, Helmstetter, F. J., Hannula, D. E. (2016). Contingency awareness is not required for fear conditioned capture of attention. Visual Sciences Society. <a href="https://doi.org/10.1167/16.12.1020">Public Link</a>
 
 ## REGIONAL CONFERENCES
-• Phipps, C. J., __Christopher-Hayes, N. J.__, Torres-Russotto, D., Warren, D. E. (2019). Measurement of functional brain network connectivity in people with orthostatic tremor using MRI and transcranial magnetic stimulation. University of Nebraska Medical Center Annual Research Day. 
+Phipps, C. J., __Christopher-Hayes, N. J.__, Torres-Russotto, D., Warren, D. E. (2019). Measurement of functional brain network connectivity in people with orthostatic tremor using MRI and transcranial magnetic stimulation. University of Nebraska Medical Center Annual Research Day. 
 
 <!-- <br> -->
-• Pham, D., __Christopher-Hayes, N. J.__, Rangel, A., Stephen, J. M., Calhoun, V. D., Wang, Y.-P., Wilson, T. W., & Warren, D. E. (2017). Brain correlates of memory ability in youth. University of Nebraska Medical Center Summer Undergraduate Research Symposium.
+Pham, D., __Christopher-Hayes, N. J.__, Rangel, A., Stephen, J. M., Calhoun, V. D., Wang, Y.-P., Wilson, T. W., & Warren, D. E. (2017). Brain correlates of memory ability in youth. University of Nebraska Medical Center Summer Undergraduate Research Symposium.
 
-• Sajja, K., __Christopher-Hayes, N. J.__, Warren, D. E., Madhavan, D. (2017). Predicting outcomes after corpus callosotomy using FreeSurfer for processing and analyzing pre-surgical MRI images. University of Nebraska Medical Center Annual Research Day.
+Sajja, K., __Christopher-Hayes, N. J.__, Warren, D. E., Madhavan, D. (2017). Predicting outcomes after corpus callosotomy using FreeSurfer for processing and analyzing pre-surgical MRI images. University of Nebraska Medical Center Annual Research Day.
 
-• __Christopher-Hayes, N. J.__, Hopkins, L. S., Helmstetter, F. J., Hannula, D. E. (2016). Oculomotor capture by aversive stimuli. UW-Milwaukee Undergraduate Research Symposium.
+__Christopher-Hayes, N. J.__, Hopkins, L. S., Helmstetter, F. J., Hannula, D. E. (2016). Oculomotor capture by aversive stimuli. UW-Milwaukee Undergraduate Research Symposium.
 
 
 ## INVITED TALKS
-• __Christopher-Hayes, N. J.__. Neuroimaging and Neurostimulation in Alzheimer’s. (2017). Fremont Area Alzheimer’s Collaboration.
+__Christopher-Hayes, N. J.__. Neuroimaging and Neurostimulation in Alzheimer’s. (2017). Fremont Area Alzheimer’s Collaboration.
 
 ## SYSTEMS AND COMPUTING
 
@@ -229,8 +232,10 @@ __MoinMoin Wiki (Python/Linux)__
 `2014 – PRSNT`
 TMS (NBS System 5.1),    MRI Safety,    CITI
 
+<!--
 ## HOBBIES
 Avid English Premiere League Observer, Photographer sometimes, Guitarist almost, Pianist once upon a time, Soccer when I feel young, Snowmobiling please, Boating with buoyancy, Hiking seems healthy, Programming inseparable, Opensource fanatic
+-->
 
 <!--<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>-->
 ## RESEARCH REFERENCES
