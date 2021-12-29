@@ -12,7 +12,7 @@ __Doctoral Student__
 
 <div id="webaddress">
 	nichrishayes | at | gmail | dot | com
-	<br><a href="https://nichrishayes.github.io/">Personal website</a>
+	<!-- <br><a href="https://nichrishayes.github.io/">Personal website</a> -->
 </div>
 
 
@@ -51,6 +51,7 @@ __University of Nebraska Medical Center, Department of Neurological Sciences__
 
 __MEG Research Associate__
 
+<!--
 -Processing and analysis of Magnetic Resonance Imaging (MRI), Magnetoencephalography (MEG), Positron Emission Tomography (PET), Arterial Spin Labelling (ASL), and Electromyography (EMG) data
 
 -Processing pipeline and toolbox development
@@ -62,7 +63,7 @@ __MEG Research Associate__
 -Research study and cognitive task development
 
 -Manuscript and figure preparation for inclusion in scholarly conference presentations and publications
-
+-->
 
 ### Warren Neuroscience Lab:
 `2016  –  2019`
@@ -72,6 +73,7 @@ __University of Nebraska Medical Center, Department of Neurological Sciences__
 
 __Clinical Research Associate___
 
+<!--
 -Participant data collection with MRI, MEG, Transcranial Magnetic Stimulation (TMS), computerized tasks, and Eye-tracking
 
 -Data processing and quality control
@@ -81,6 +83,7 @@ __Clinical Research Associate___
 -Develop and implement research study protocols
 
 -Manuscript and figure preparation for inclusion in scholarly conference presentations and publications
+-->
 
 ### MINDfull of Memory Lab:
 `2013  –  2016`
@@ -90,11 +93,13 @@ __University of Wisconsin-Milwaukee, Department of Psychology__
 
 __Research Assistant__
 
+<!--
 -Participant data collection with computerized tasks and Eye-tracking hardware
 
 -Behavioral and Eye-tracking data analysis
 
 -Present and lead discussion in weekly lab meetings
+-->
 
 ## OTHER PROFESSIONAL EXPERIENCE	
 ### La Fleur Law Office, S.C.:
@@ -119,7 +124,7 @@ __Support for Undergraduate Research Fellows, Summer 2015 ($1,500)__, University
 <!-- • -->
 
 __Christopher-Hayes, N. J.__, Lew, B. J., Wiesman, A. I., Schantell, M., O’Neill, J., May, P. E., Swindells, S., Wilson, T. W. (2021). Cannabis use impacts pre-stimulus neural activity in the visual cortices of people with HIV. Human Brain Mapping. <a href="https://doi.org/10.1002/hbm.25634">Public Link</a>
-
+<br><br><br><br>
 Wiesman, A. I., __Christopher-Hayes, N. J.__, Wilson, T. W. (2021b). Stairway to memory: Left-hemispheric alpha dynamics index the progressive loading of items into a short-term store. NeuroImage 235, 118024. <a href="https://doi.org/10.1016/j.neuroimage.2021.118024">Public Link</a>
 
 Warren, D. E., Rangel, A. J., __Christopher‐Hayes, N. J.__, Eastman, J. A., Frenzel, M. R., Stephen, J. M., Calhoun, V. D., Wang, Y., Wilson, T. W. (2021). Resting‐state functional connectivity of the human hippocampus in periadolescent children: Associations with age and memory performance. Human Brain Mapping. <a href="https://doi.org/10.1002/hbm.25458">Public Link</a>
@@ -155,7 +160,7 @@ __Christopher-Hayes, N. J.__, Embury, C. M., Wiesman, A. I., May, P. E., Schante
 __Christopher-Hayes, N. J.__, Embury, C. M., Wiesman, A. I., May, P. E., Schantell, M., Johnson, C. M., Wolfson, S. L., Murman, D. L., Wilson, T. W. (2021). Hippocampal subfield profiles relate to cognitive impairment alongthe Alzheimer’s disease spectrum. Organization for Human Brain Mapping.
 
 Jing, R., __Christopher-Hayes, N. J.__, Rangel, A. J., Murman, D. L., Warren, D. E. (2020). Effect of Targeted Transcranial Magnetic Stimulation on Memory Performance in Older Adults with Amnestic Mild Cognitive Impairment. Journal of the American Geriatrics Society.
-
+<br><br>
 Phipps, C. J., Rangel, A., __Christopher-Hayes, N. J.__, Phatak, V., Murman, D. L., Warren, D. E. (2020). Measuring change in memory networks after targeted repetitive transcranial magnetic stimulation. Organization for Human Brain Mapping.
 
 Phipps, C. J., Rangel, A., __Christopher-Hayes, N. J.__, Phatak, V., Murman, D. L., Warren, D. E. (2019). Measuring brain and cognitive changes in memory systems after targeted multiday repetitive transcranial magnetic stimulation of healthy young, healthy old, and amnestic mild cognitive impairment(aMCI) participants. Alzheimer’s Association International Conference.
@@ -190,7 +195,7 @@ __Christopher-Hayes, N. J.__, Hopkins, L. S., Helmstetter, F. J., Hannula, D. E.
 
 ## INVITED TALKS
 __Christopher-Hayes, N. J.__. Neuroimaging and Neurostimulation in Alzheimer’s. (2017). Fremont Area Alzheimer’s Collaboration.
-
+<br><br><br><br><br>
 ## SYSTEMS AND COMPUTING
 
 ### Authored Packages: 
