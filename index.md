@@ -124,7 +124,7 @@ Wiesman, A. I., __Christopher-Hayes, N. J.__, Wilson, T. W. (2021b). Stairway to
 
 Warren, D. E., Rangel, A. J., __Christopher‐Hayes, N. J.__, Eastman, J. A., Frenzel, M. R., Stephen, J. M., Calhoun, V. D., Wang, Y., Wilson, T. W. (2021). Resting‐state functional connectivity of the human hippocampus in periadolescent children: Associations with age and memory performance. Human Brain Mapping. <a href="https://doi.org/10.1002/hbm.25458">Public Link</a>
 
-Wiesman, A. I., Murman, D. L., Losh, R. A., Schantell, M., __Christopher‐Hayes, N. J.__, Johnson, H. J., Willet, M. P., Wolfson, S. L., Losh, K. L., Johnson, C. M., May, P. E., Wilson, T. W. Spatially resolved neural slowing predicts impairment and amyloid burden in Alzheimer’s disease. (Accepted, BRAIN, 2021). <a href="#">Public Link Coming Soon</a>
+Wiesman, A. I., Murman, D. L., Losh, R. A., Schantell, M., __Christopher‐Hayes, N. J.__, Johnson, H. J., Willet, M. P., Wolfson, S. L., Losh, K. L., Johnson, C. M., May, P. E., Wilson, T. W. Spatially resolved neural slowing predicts impairment and amyloid burden in Alzheimer’s disease. (Accepted, BRAIN, 2021). <a href="https://doi.org/10.1093/brain/awab430">Public Link</a>
 
 Wiesman, A. I., Murman, D. L., May, P. E., Schantell, M., Losh, R. A., Johnson, H. J., Willet, M. P., Eastman, J. A., __Christopher‐Hayes, N. J.__, Knott, N. L., Houseman, L. L., Wolfson, S. L., Losh, K. L., Johnson, C. M., Wilson, T. W. (2021c). Spatio‐spectral relationships between pathological neural dynamics and cognitive impairment along the Alzheimer’s disease spectrum. Alzheimer’s &amp; Dementia: Diagnosis, Assessment &amp; Disease Monitoring 13. <a href="https://doi.org/10.1002/dad2.12200">Public Link</a>
 
