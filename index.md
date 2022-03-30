@@ -34,37 +34,37 @@ __Senior Research Project__: _Oculomotor capture by aversive stimuli_
 ## PROFESSIONAL RESEARCH EXPERIENCE
 ### MAD Lab:
 `2021  –  PRSNT`
-__PI: Dr. Simona Ghetti__
-
-__University of California Davis, Psychology__
-
 __Doctoral Student__
+
+PI: Dr. Simona Ghetti
+
+University of California Davis, Psychology
 
 
 ### DICoN Lab:
 `2018  –  2021`
-__PI: Dr. Tony W. Wilson__
-
-__University of Nebraska Medical Center, Department of Neurological Sciences__
-
 __MEG Research Associate__
+
+PI: Dr. Tony W. Wilson
+
+University of Nebraska Medical Center, Department of Neurological Sciences
 
 ### WN Lab:
 `2016  –  2019`
-__PI: Dr. David E. Warren__
-
-__University of Nebraska Medical Center, Department of Neurological Sciences__
-
 __Clinical Research Associate__
+
+PI: Dr. David E. Warren
+
+University of Nebraska Medical Center, Department of Neurological Sciences
 
 
 ### MINDfull of Memory Lab:
 `2013  –  2016`
-__PI: Dr. Deborah E. Hannula__
-
-__University of Wisconsin-Milwaukee, Department of Psychology__
-
 __Research Assistant__
+
+PI: Dr. Deborah E. Hannula
+
+University of Wisconsin-Milwaukee, Department of Psychology
 
 ## FUNDED AWARDS
 <!-- ### Graduate Funding:
