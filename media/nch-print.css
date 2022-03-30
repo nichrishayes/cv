@@ -194,4 +194,9 @@ strong {
 
 
 
+/* A different sized line break for pubs*/
+br {
+	display: block;
+	margin-bottom: .75em;
+}
 
