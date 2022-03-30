@@ -6,20 +6,19 @@ title: Nicholas Christopher-Hayes's CV
 <br>
 
 # Nicholas Christopher-Hayes
-
-<em>Curriculum Vitae</em>
-
-__Doctoral Student__
+<!-- <em>Curriculum Vitae</em> -->
 
 <div id="webaddress">
-	nichrishayes | at | gmail | dot | com
+	Department of Psychology and the Center for Mind and Brain
+	
+	<br>University of California, Davis
+	
+	<br>nichrishayes@gmail.com
 	<br><a href="https://nichrishayes.github.io/">Personal website</a>
 </div>
 
 
-
 ## EDUCATION
-### Degree:
 `2021  –  PRSNT`
 __PhD, Psychology, University of California, Davis__
 
@@ -28,29 +27,29 @@ __PhD, Psychology, University of California, Davis__
 `2011  –  2015`
 __BA, Psychology, University of Wisconsin, Milwaukee__
 
-__Relevant Courses__:    Child Psychology, Psychological Statistics, Research Methods, Neuropsychology, Advanced Physiological Psychology, Cellular & Molecular Neuroscience, Brain Injury, Cognitive Neuroscience, Computer Science (Java 1), Computer Science (Java 2)
+__Relevant Courses__: Child Psychology, Psychological Statistics, Research Methods, Neuropsychology, Advanced Physiological Psychology, Cellular & Molecular Neuroscience, Brain Injury, Cognitive Neuroscience, Computer Science (Java 1), Computer Science (Java 2)
 
-__Senior Research Project__:_Oculomotor capture by aversive stimuli_
+__Senior Research Project__: _Oculomotor capture by aversive stimuli_
 
 
 
 ## PROFESSIONAL RESEARCH EXPERIENCE
 ### MAD Lab:
 `2021  –  PRSNT`
+__Doctoral Student, (Y1)__
+
 __PI: Dr. Simona Ghetti__
 
 __University of California Davis, Psychology__
 
-__Doctoral Student, (Y1)__
-
 
 ### DICoN Lab:
-`2018  –  2021`
+`2019  –  2021`
+__MEG Research Associate__
+
 __PI: Dr. Tony W. Wilson__
 
 __University of Nebraska Medical Center, Department of Neurological Sciences__
-
-__MEG Research Associate__
 
 -Processing and analysis of Magnetic Resonance Imaging (MRI), Magnetoencephalography (MEG), Positron Emission Tomography (PET), Arterial Spin Labelling (ASL), and Electromyography (EMG) data
 
@@ -67,11 +66,11 @@ __MEG Research Associate__
 
 ### Warren Neuroscience Lab:
 `2016  –  2019`
+__Clinical Research Associate__
+
 __PI: Dr. David E. Warren__
 
 __University of Nebraska Medical Center, Department of Neurological Sciences__
-
-__Clinical Research Associate___
 
 -Participant data collection with MRI, MEG, Transcranial Magnetic Stimulation (TMS), computerized tasks, and Eye-tracking
 
@@ -85,11 +84,11 @@ __Clinical Research Associate___
 
 ### MINDfull of Memory Lab:
 `2013  –  2016`
+__Research Assistant__
+
 __PI: Dr. Deborah E. Hannula__
 
 __University of Wisconsin-Milwaukee, Department of Psychology__
-
-__Research Assistant__
 
 -Participant data collection with computerized tasks and Eye-tracking hardware
 
@@ -121,7 +120,7 @@ __Support for Undergraduate Research Fellows (SURF), ($1,500)__, University of W
 
 
 ## TEACHING EXPERIENCE
-### Teaching Assistant (2 Quarters):
+### Teaching Assistant:
 `2021`
 PSY 135, __Cognitive Neuroscience__ (Instructor, Evan Antzoulatos, Ph.D.)
 
@@ -176,7 +175,6 @@ Phipps, C. J., Rangel, A., __Christopher-Hayes, N. J.__, Phatak, V., Murman, D.,
 Phipps, C. J., __Christopher-Hayes, N. J.__, Torres-Russotto, D., Warren, D. E.. Measurement of functional brain network connectivity in people with orthostatic tremor using MRI and transcranial magnetic stimulation.
 <br>
 
-<!-- <br><br> -->
 ## INTER/NATIONAL CONFERENCES
 __Christopher-Hayes, N. J.__, Embury, C. M., Wiesman, A. I., May, P. E., Schantell, M., Johnson, C. M., Wolfson, S. L., Murman, D. L., Wilson, T. W. (2021). Piecing it together: relationships between hippocampal subfields and cognitive impairment along the Alzheimer’s disease spectrum. Alzheimer’s Association International Conference.
 <br>
@@ -257,28 +255,25 @@ __Python, Git, Bash/Shell, Matlab, Java, HTML__
 __MoinMoin Wiki (Python/Linux)__
 
 ## SCIENTIFIC COMMUNITY OUTREACH
-*Science Education Outreach and Engagement Program*, UNMC Science Education Partnership Award (SEPA): Health and science education in Native American communities and The National Cancer Institute’s Youth Enjoy Science Research Program (YES)
+Science Education Outreach and Engagement Program, UNMC Science Education Partnership Award (SEPA): Health and science education in Native American communities and The National Cancer Institute’s Youth Enjoy Science Research Program (YES)
 `2018  –  2019`
 
-*Fremont Area Alzheimer’s Collaboration*, Memory Walk
+Fremont Area Alzheimer’s Collaboration, Memory Walk
 `2016  –  2017`
 
-*Federal TRIO Program*, Upward Bound Math-Science
+Federal TRIO Program, Upward Bound Math-Science
 `2014  &  2015`
 
-*New Horizons Un-Limited Inc.* - Independent Disabilities Advocacy and Rehabilitation Center for Computer Training, Refurbishing, and Workforce Preparation
+New Horizons Un-Limited Inc. - Independent Disabilities Advocacy and Rehabilitation Center for Computer Training, Refurbishing, and Workforce Preparation
 `2012  –  2014`
 
 ## CERTIFICATIONS
 `2014 – PRSNT`
 TMS (NBS System 5.1),    MRI Safety,    CITI
 
-<!--
 ## HOBBIES
 Avid English Premiere League Observer, Photographer sometimes, Guitarist almost, Pianist once upon a time, Soccer when I feel young, Snowmobiling please, Boating with buoyancy, Hiking seems healthy, Programming inseparable, Opensource fanatic
--->
 
-<!--<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>-->
 ## RESEARCH REFERENCES
 __Dr. Simona Ghetti__
 Professor and Vice-Chair for Undergraduate Education

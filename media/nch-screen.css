@@ -28,9 +28,9 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
-/*body {
+body {
 	line-height: .5em;
-}*/
+}
 ol, ul {
 	list-style: none;
 }
@@ -50,6 +50,9 @@ table {
 /* end of reset */
 
 
+
+
+
 body {
 	font: normal 400;
 	font-size: 80%;
@@ -59,8 +62,6 @@ body {
 	margin-top: 0em;
 	margin-left: 1em;
 }
-
-
 
 p {
 	position: relative;
@@ -80,14 +81,16 @@ code {
 
 p code {
 	position: absolute;
-	left: -14%;
+	width: 15%;
+	right: 100%;
+	text-align: center;
 }
 
 
 ul { 
 	position: relative;
 	left: 33%;
-	width: 65%;	
+	width: 65%;
 	margin-bottom: 1em;
 	margin-top: 0em;
 }
@@ -113,7 +116,7 @@ li ul {
 	margin-top: 0em;
 }
 
-h1,h2,h3 {
+h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Cousine,Verdana,sans-serif;
 	width: 65%;
@@ -137,23 +140,23 @@ h2 {
 	font-size: 1.1em;
 	color: #002a63;/*#a00*/
 	margin-top: .25em;
+	margin-bottom: .25em;
 	position: relative;
 	top: .75em;
-	text-align: right;
-	width: 20%;
+	text-align: left;
+	left: 5%;
 }
 
 h3 {
+	margin-top: 0em;
 	font-size: 1em;
 	line-height: .75em; 
 	position: relative;
 	top: 1em;
-	text-align: right;
-	width: 20%;
+	text-align: left;
+	left: 5%;
+	width: 15%;
 }
-
-
-
 
 a {
 	color: inherit;
@@ -166,6 +169,7 @@ a:hover {
 
 #webaddress {
 	margin-top: 1em;
+	line-height: .5em;
 	position: relative;
 	left: 30%;
 	color: #aaa;
@@ -188,8 +192,6 @@ strong {
 #address {
 	display: none;
 }
-
-
 
 /* A different sized line break for pubs*/
 br {

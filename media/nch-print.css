@@ -79,7 +79,9 @@ code {
 
 p code {
 	position: absolute;
-	left: -15.5%;
+	width: 15%;
+	right: 102.5%;
+	text-align: center;
 }
 
 
@@ -124,7 +126,7 @@ h1 {
 	line-height: 1em;
 	position: relative;
 	left: 26%;
-	margin-top: -1.25em;
+	margin-top: -.5em;
 }
 
 h1+p { 
@@ -137,11 +139,10 @@ h2 {
 	font-size: 1.1em;
 	color: #002a63;/*#a00*/
 	margin-top: .25em;
+	margin-bottom: .4em;
 	position: relative;
-	right: 1%;
 	top: .75em;
-	text-align: right;
-	width: 15%;
+	text-align: left;
 }
 
 
@@ -150,10 +151,9 @@ h3 {
 	line-height: .85em; 
 	color: #ccc;
 	position: relative;
-	right: 1%;
 	top: 1em;
-	text-align: right;
-	width: 15%;
+	text-align: left;
+	width: 12.5%;
 }
 
 a {
@@ -167,6 +167,7 @@ a:hover {
 
 #webaddress {
 	margin-top: 1em;
+	line-height: .5em;
 	position: relative;
 	left: 26%;
 	color: #ccc;
@@ -192,11 +193,12 @@ strong {
 	visibility: hidden;
 }
 
-
-
 /* A different sized line break for pubs*/
 br {
 	display: block;
 	margin-bottom: .75em;
 }
+
+
+
 
