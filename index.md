@@ -42,7 +42,7 @@ University of California Davis, Psychology
 
 
 ### DICoN Lab:
-`2018  –  2021`
+`2019  –  2021`
 __MEG Research Associate__
 
 PI: Dr. Tony W. Wilson
