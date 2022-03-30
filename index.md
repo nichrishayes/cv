@@ -5,31 +5,29 @@ title: Nicholas Christopher-Hayes's CV
 <br>
 <br>
 # Nicholas Christopher-Hayes
-
-<em>Curriculum Vitae</em>
-
-__Doctoral Student__
-
 <div id="webaddress">
-	nichrishayes | at | gmail | dot | com
+	Department of Psychology and the Center for Mind and Brain
+	
+	<br>University of California, Davis
+	
+	<br>nichrishayes@gmail.com
 	<!-- <br><a href="https://nichrishayes.github.io/">Personal website</a> -->
 </div>
 
 
 
 ## EDUCATION
-### Degree:
 `2021  –  PRSNT`
 __PhD, Psychology, University of California Davis__
 
 <br>
 
 `2011  –  2015`
-__Bachelor of Arts, Psychology, University of Wisconsin-Milwaukee__
+__BA, Psychology, University of Wisconsin-Milwaukee__
 
-__Relevant Courses__:    Child Psychology, Psychological Statistics, Research Methods, Neuropsychology, Advanced Physiological Psychology, Cellular & Molecular Neuroscience, Brain Injury, Cognitive Neuroscience, Computer Science (Java 1), Computer Science (Java 2)
+__Relevant Courses__: Child Psychology, Psychological Statistics, Research Methods, Neuropsychology, Advanced Physiological Psychology, Cellular & Molecular Neuroscience, Brain Injury, Cognitive Neuroscience, Computer Science (Java 1), Computer Science (Java 2)
 
-__Senior Research Project__:_Oculomotor capture by aversive stimuli_
+__Senior Research Project__: _Oculomotor capture by aversive stimuli_
 
 
 
@@ -51,13 +49,13 @@ __University of Nebraska Medical Center, Department of Neurological Sciences__
 
 __MEG Research Associate__
 
-### Warren Neuroscience Lab:
+### WN Lab:
 `2016  –  2019`
 __PI: Dr. David E. Warren__
 
 __University of Nebraska Medical Center, Department of Neurological Sciences__
 
-__Clinical Research Associate___
+__Clinical Research Associate__
 
 
 ### MINDfull of Memory Lab:
@@ -67,21 +65,6 @@ __PI: Dr. Deborah E. Hannula__
 __University of Wisconsin-Milwaukee, Department of Psychology__
 
 __Research Assistant__
-
-
-## OTHER PROFESSIONAL EXPERIENCE	
-### La Fleur Law Office, S.C.:
-`2015  –  2016`
-
-__Firm Administrator__, Milwaukee, WI
-
-`2012  –  2015`
-__Law Clerk__, Milwaukee, WI
-
-### UWM Men's Panther Soccer Club:
-`2015  –  2016`
-
-__President__, Milwaukee, WI
 
 ## FUNDED AWARDS
 <!-- ### Graduate Funding:
@@ -93,7 +76,7 @@ __Support for Undergraduate Research Fellows (SURF), ($1,500)__, University of W
 
 
 ## TEACHING EXPERIENCE
-### Teaching Assistant (2 Quarters):
+### Teaching Assistant:
 `2021`
 PSY 135, __Cognitive Neuroscience__ (Instructor, Evan Antzoulatos, Ph.D.)
 
@@ -103,10 +86,9 @@ PSY 103, __Statistical Analysis of Psychological Data__ (Instructor, Shelley Blo
 
 ## PUBLICATIONS
 ### Published:
-<!-- • -->
-
 __Christopher-Hayes, N. J.__, Lew, B. J., Wiesman, A. I., Schantell, M., O’Neill, J., May, P. E., Swindells, S., Wilson, T. W. (2021). Cannabis use impacts pre-stimulus neural activity in the visual cortices of people with HIV. Human Brain Mapping. <a href="https://doi.org/10.1002/hbm.25634">Public Link</a>
 <br>
+
 Wiesman, A. I., __Christopher-Hayes, N. J.__, Wilson, T. W. (2021b). Stairway to memory: Left-hemispheric alpha dynamics index the progressive loading of items into a short-term store. NeuroImage 235, 118024. <a href="https://doi.org/10.1016/j.neuroimage.2021.118024">Public Link</a>
 <br>
 
@@ -125,9 +107,7 @@ Wiesman, A. I., __Christopher-Hayes, N. J.__, Eastman, J. A., Heinrichs-Graham, 
 Arif, Y., Wiesman, A. I., __Christopher-Hayes, N. J.__, Wilson, T. W. (2021). Aberrant inhibitory processing in the somatosensory cortices of cannabis-users. Journal of Psychopharmacology. <a href="https://doi.org/10.1177/02698811211050557">Public Link</a>
 <br>
 
-<br>
 ### Under Review:
-
 Rempe, M., Lew, B. J., Embury, C. M., __Christopher-Hayes, N. J.__, Schantell, M., Wilson, T. W. Spontaneous sensorimotor beta power and cortical thickness uniquely predict. (NeuroImage, 2022).
 <br>
 
@@ -138,7 +118,6 @@ Springer, S.D., Wiesman, A. I., May, P. E., Schantell, M., Johnson, H. J., Wille
 <br>
 
 ### In prep:
-
 __Christopher-Hayes, N. J.__, Embury, C. M., Wiesman, A. I., May, P. E., Schantell, M., Johnson, C. M., Wolfson, S. L., Murman, D. L., Wilson, T. W. Piecing it together: hippocampal subfield profiles relate to cognitive impairment along the Alzheimer’s disease spectrum.
 <br>
 
@@ -148,8 +127,8 @@ Phipps, C. J., Rangel, A., __Christopher-Hayes, N. J.__, Phatak, V., Murman, D.,
 Phipps, C. J., __Christopher-Hayes, N. J.__, Torres-Russotto, D., Warren, D. E.. Measurement of functional brain network connectivity in people with orthostatic tremor using MRI and transcranial magnetic stimulation.
 <br>
 
-<!-- <br><br> -->
 ## INTER/NATIONAL CONFERENCES
+<br>
 __Christopher-Hayes, N. J.__, Embury, C. M., Wiesman, A. I., May, P. E., Schantell, M., Johnson, C. M., Wolfson, S. L., Murman, D. L., Wilson, T. W. (2021). Piecing it together: relationships between hippocampal subfields and cognitive impairment along the Alzheimer’s disease spectrum. Alzheimer’s Association International Conference.
 <br>
 
@@ -163,7 +142,7 @@ Phipps, C. J., Rangel, A., __Christopher-Hayes, N. J.__, Phatak, V., Murman, D. 
 <br>
 
 Phipps, C. J., Rangel, A., __Christopher-Hayes, N. J.__, Phatak, V., Murman, D. L., Warren, D. E. (2019). Measuring brain and cognitive changes in memory systems after targeted multiday repetitive transcranial magnetic stimulation of healthy young, healthy old, and amnestic mild cognitive impairment(aMCI) participants. Alzheimer’s Association International Conference.
-<br>
+<br><br>
 
 Ellis, D. G., White, M. L., Hayasaka, H., __Christopher-Hayes, N. J.__, Warren, D. E., Wilson, T. W., Aizenberg, M. R. (2019). Accurate localization of primary motor cortex in brain tumor patients with DTI and deep learning. Radiological Society of North America.
 <br>
@@ -204,13 +183,10 @@ __Christopher-Hayes, N. J.__, Hopkins, L. S., Helmstetter, F. J., Hannula, D. E.
 
 ## INVITED TALKS
 __Christopher-Hayes, N. J.__. Neuroimaging and Neurostimulation in Alzheimer’s. (2017). Fremont Area Alzheimer’s Collaboration.
-<br><br><br><br><br>
 
 ## SYSTEMS AND COMPUTING
-
 ### Authored Packages: 
 1) __ArtifactScanTool (AST)__ – A Matlab-based package for automated statistical identification, rejection, and plotting of artifactual MEG channels and epochs. Versions available for BESA and Brainstorm software packages. <a href="https://github.com/nichrishayes/ArtifactScanTool">Download here</a>
-<br>
 
 2) __PyStiMEP__ – A Python-based package for automated neurostimulation event-related motor evoked potential (MEP) identification, extraction, and plotting
 
@@ -231,28 +207,22 @@ __Python, Git, Bash/Shell, Matlab, Java, HTML__
 __MoinMoin Wiki (Python/Linux)__
 
 ## SCIENTIFIC COMMUNITY OUTREACH
-*Science Education Outreach and Engagement Program*, UNMC Science Education Partnership Award (SEPA): Health and science education in Native American communities and The National Cancer Institute’s Youth Enjoy Science Research Program (YES)
 `2018  –  2019`
+Science Education Outreach and Engagement Program, UNMC Science Education Partnership Award (SEPA): Health and science education in Native American communities and The National Cancer Institute’s Youth Enjoy Science Research Program (YES)
 
-*Fremont Area Alzheimer’s Collaboration*, Memory Walk
 `2016  –  2017`
+Fremont Area Alzheimer’s Collaboration, Memory Walk
 
-*Federal TRIO Program*, Upward Bound Math-Science
-`2014  &  2015`
+`2014  –  2015`
+Federal TRIO Program, Upward Bound Math-Science
 
-*New Horizons Un-Limited Inc.* - Independent Disabilities Advocacy and Rehabilitation Center for Computer Training, Refurbishing, and Workforce Preparation
 `2012  –  2014`
+New Horizons Un-Limited Inc. - Independent Disabilities Advocacy and Rehabilitation Center for Computer Training, Refurbishing, and Workforce Preparation
 
 ## CERTIFICATIONS
 `2014 – PRSNT`
 TMS (NBS System 5.1),    MRI Safety,    CITI
 
-<!--
-## HOBBIES
-Avid English Premiere League Observer, Photographer sometimes, Guitarist almost, Pianist once upon a time, Soccer when I feel young, Snowmobiling please, Boating with buoyancy, Hiking seems healthy, Programming inseparable, Opensource fanatic
--->
-
-<!--<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>-->
 ## RESEARCH REFERENCES
 __Dr. Simona Ghetti__
 Professor and Vice-Chair for Undergraduate Education
