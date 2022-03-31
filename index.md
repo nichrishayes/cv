@@ -49,7 +49,7 @@ __MEG Research Associate__
 
 __PI: Dr. Tony W. Wilson__
 
-__University of Nebraska Medical Center, Department of Neurological Sciences__
+__Boys Town National Research Hospital, Institute for Human Neuroscience__
 
 -Processing and analysis of Magnetic Resonance Imaging (MRI), Magnetoencephalography (MEG), Positron Emission Tomography (PET), Arterial Spin Labelling (ASL), and Electromyography (EMG) data
 
