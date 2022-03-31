@@ -48,6 +48,7 @@ __MEG Research Associate__
 PI: Dr. Tony W. Wilson
 
 Boys Town National Research Hospital, Institute for Human Neuroscience
+University of Nebraska Medical Center, Department of Neurological Sciences
 
 ### WN Lab:
 `2016  –  2019`
