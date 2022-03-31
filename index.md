@@ -15,7 +15,7 @@ title: Nicholas Christopher-Hayes's CV
 </div>
 
 
-
+<br><br>
 ## EDUCATION
 `2021  –  PRSNT`
 __PhD, Psychology, University of California Davis__
@@ -47,7 +47,7 @@ __MEG Research Associate__
 
 PI: Dr. Tony W. Wilson
 
-University of Nebraska Medical Center, Department of Neurological Sciences
+Boys Town National Research Hospital, Institute for Human Neuroscience
 
 ### WN Lab:
 `2016  –  2019`
@@ -86,25 +86,25 @@ PSY 103, __Statistical Analysis of Psychological Data__ (Instructor, Shelley Blo
 
 ## PUBLICATIONS
 ### Published:
-__Christopher-Hayes, N. J.__, Lew, B. J., Wiesman, A. I., Schantell, M., O’Neill, J., May, P. E., Swindells, S., Wilson, T. W. (2021). Cannabis use impacts pre-stimulus neural activity in the visual cortices of people with HIV. Human Brain Mapping. <a href="https://doi.org/10.1002/hbm.25634">Public Link</a>
+__Christopher-Hayes, N. J.__, Lew, B. J., Wiesman, A. I., Schantell, M., O’Neill, J., May, P. E., Swindells, S., Wilson, T. W. (2021). Cannabis use impacts pre-stimulus neural activity in the visual cortices of people with HIV. Human Brain Mapping.
 <br>
 
-Wiesman, A. I., __Christopher-Hayes, N. J.__, Wilson, T. W. (2021b). Stairway to memory: Left-hemispheric alpha dynamics index the progressive loading of items into a short-term store. NeuroImage 235, 118024. <a href="https://doi.org/10.1016/j.neuroimage.2021.118024">Public Link</a>
+Wiesman, A. I., __Christopher-Hayes, N. J.__, Wilson, T. W. (2021b). Stairway to memory: Left-hemispheric alpha dynamics index the progressive loading of items into a short-term store. NeuroImage 235, 118024.
 <br>
 
-Wiesman, A. I., Murman, D. L., Losh, R. A., Schantell, M., __Christopher‐Hayes, N. J.__, Johnson, H. J., Willet, M. P., Wolfson, S. L., Losh, K. L., Johnson, C. M., May, P. E., Wilson, T. W. (2021). Spatially resolved neural slowing predicts impairment and amyloid burden in Alzheimer’s disease. BRAIN. <a href="https://doi.org/10.1093/brain/awab430">Public Link</a>
+Wiesman, A. I., Murman, D. L., Losh, R. A., Schantell, M., __Christopher‐Hayes, N. J.__, Johnson, H. J., Willet, M. P., Wolfson, S. L., Losh, K. L., Johnson, C. M., May, P. E., Wilson, T. W. (2021). Spatially resolved neural slowing predicts impairment and amyloid burden in Alzheimer’s disease. BRAIN.
 <br>
 
-Warren, D. E., Rangel, A. J., __Christopher‐Hayes, N. J.__, Eastman, J. A., Frenzel, M. R., Stephen, J. M., Calhoun, V. D., Wang, Y., Wilson, T. W. (2021). Resting‐state functional connectivity of the human hippocampus in periadolescent children: Associations with age and memory performance. Human Brain Mapping. <a href="https://doi.org/10.1002/hbm.25458">Public Link</a>
+Warren, D. E., Rangel, A. J., __Christopher‐Hayes, N. J.__, Eastman, J. A., Frenzel, M. R., Stephen, J. M., Calhoun, V. D., Wang, Y., Wilson, T. W. (2021). Resting‐state functional connectivity of the human hippocampus in periadolescent children: Associations with age and memory performance. Human Brain Mapping.
 <br>
 
-Wiesman, A. I., Murman, D. L., May, P. E., Schantell, M., Losh, R. A., Johnson, H. J., Willet, M. P., Eastman, J. A., __Christopher‐Hayes, N. J.__, Knott, N. L., Houseman, L. L., Wolfson, S. L., Losh, K. L., Johnson, C. M., Wilson, T. W. (2021c). Spatio‐spectral relationships between pathological neural dynamics and cognitive impairment along the Alzheimer’s disease spectrum. Alzheimer’s &amp; Dementia: Diagnosis, Assessment &amp; Disease Monitoring 13. <a href="https://doi.org/10.1002/dad2.12200">Public Link</a>
+Wiesman, A. I., Murman, D. L., May, P. E., Schantell, M., Losh, R. A., Johnson, H. J., Willet, M. P., Eastman, J. A., __Christopher‐Hayes, N. J.__, Knott, N. L., Houseman, L. L., Wolfson, S. L., Losh, K. L., Johnson, C. M., Wilson, T. W. (2021c). Spatio‐spectral relationships between pathological neural dynamics and cognitive impairment along the Alzheimer’s disease spectrum. Alzheimer’s &amp; Dementia: Diagnosis, Assessment &amp; Disease Monitoring 13.
 <br>
 
-Wiesman, A. I., __Christopher-Hayes, N. J.__, Eastman, J. A., Heinrichs-Graham, E., Wilson, T. W. (2021). Response certainty during bimanual movements reduces gamma oscillations in primary motor cortex. NeuroImage 224, 117448. <a href="https://doi.org/10.1016/j.neuroimage.2020.117448">Public Link</a>
+Wiesman, A. I., __Christopher-Hayes, N. J.__, Eastman, J. A., Heinrichs-Graham, E., Wilson, T. W. (2021). Response certainty during bimanual movements reduces gamma oscillations in primary motor cortex. NeuroImage 224, 117448.
 <br>
 
-Arif, Y., Wiesman, A. I., __Christopher-Hayes, N. J.__, Wilson, T. W. (2021). Aberrant inhibitory processing in the somatosensory cortices of cannabis-users. Journal of Psychopharmacology. <a href="https://doi.org/10.1177/02698811211050557">Public Link</a>
+Arif, Y., Wiesman, A. I., __Christopher-Hayes, N. J.__, Wilson, T. W. (2021). Aberrant inhibitory processing in the somatosensory cortices of cannabis-users. Journal of Psychopharmacology.
 <br>
 
 ### Under Review:
