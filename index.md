@@ -94,7 +94,7 @@ Wiesman, A. I., __Christopher-Hayes, N. J.__, Wilson, T. W. (2021b). Stairway to
 <br>
 
 Wiesman, A. I., Murman, D. L., Losh, R. A., Schantell, M., __Christopher‐Hayes, N. J.__, Johnson, H. J., Willet, M. P., Wolfson, S. L., Losh, K. L., Johnson, C. M., May, P. E., Wilson, T. W. (2021). Spatially resolved neural slowing predicts impairment and amyloid burden in Alzheimer’s disease. BRAIN.
-<br>
+<br><br><br><br><br>
 
 Warren, D. E., Rangel, A. J., __Christopher‐Hayes, N. J.__, Eastman, J. A., Frenzel, M. R., Stephen, J. M., Calhoun, V. D., Wang, Y., Wilson, T. W. (2021). Resting‐state functional connectivity of the human hippocampus in periadolescent children: Associations with age and memory performance. Human Brain Mapping.
 <br>
@@ -140,10 +140,10 @@ Jing, R., __Christopher-Hayes, N. J.__, Rangel, A. J., Murman, D. L., Warren, D.
 <br>
 
 Phipps, C. J., Rangel, A., __Christopher-Hayes, N. J.__, Phatak, V., Murman, D. L., Warren, D. E. (2020). Measuring change in memory networks after targeted repetitive transcranial magnetic stimulation. Organization for Human Brain Mapping.
-<br>
+<br><br><br><br>
 
 Phipps, C. J., Rangel, A., __Christopher-Hayes, N. J.__, Phatak, V., Murman, D. L., Warren, D. E. (2019). Measuring brain and cognitive changes in memory systems after targeted multiday repetitive transcranial magnetic stimulation of healthy young, healthy old, and amnestic mild cognitive impairment(aMCI) participants. Alzheimer’s Association International Conference.
-<br><br>
+<br>
 
 Ellis, D. G., White, M. L., Hayasaka, H., __Christopher-Hayes, N. J.__, Warren, D. E., Wilson, T. W., Aizenberg, M. R. (2019). Accurate localization of primary motor cortex in brain tumor patients with DTI and deep learning. Radiological Society of North America.
 <br>
@@ -185,6 +185,7 @@ __Christopher-Hayes, N. J.__, Hopkins, L. S., Helmstetter, F. J., Hannula, D. E.
 ## INVITED TALKS
 __Christopher-Hayes, N. J.__. Neuroimaging and Neurostimulation in Alzheimer’s. (2017). Fremont Area Alzheimer’s Collaboration.
 
+<br><br><br><br><br><br><br><br><br>
 ## SYSTEMS AND COMPUTING
 ### Authored Packages: 
 1) __ArtifactScanTool (AST)__ – A Matlab-based package for automated statistical identification, rejection, and plotting of artifactual MEG channels and epochs. Versions available for BESA and Brainstorm software packages. <a href="https://github.com/nichrishayes/ArtifactScanTool">Download here</a>
