@@ -40,7 +40,7 @@ __Senior Research Project__: _Oculomotor capture by aversive stimuli_
 ## PROFESSIONAL RESEARCH EXPERIENCE
 ### MAD Lab:
 `2021  –  PRSNT`
-__Doctoral Student__
+__Doctoral Student, (Y2)__
 
 PI: Dr. Simona Ghetti
 
