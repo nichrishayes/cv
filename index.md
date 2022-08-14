@@ -20,6 +20,12 @@ title: Nicholas Christopher-Hayes's CV
 `2021  –  PRSNT`
 __PhD, Psychology, University of California Davis__
 
+__Relevant Courses__: Statistical Analysis in Psychological Research, Fundamentals of Cognitive Neuroimaging, Cognitive and Perceptual Development, Causal Modeling and Correlational Data, Cognitive Neuroscience, Advanced Statistical Inference from Psychological Experiments
+
+__Research Projects__: _Longitudinal Changes of Hippocampal Subfields Predict Memory Improvements at the Transition into Adolescence_
+
+
+
 <br>
 
 `2011  –  2015`
@@ -71,9 +77,20 @@ University of Wisconsin-Milwaukee, Department of Psychology
 <!-- ### Graduate Funding:
 `2022`
 __Memory and Plasticity (MAP) Seed Grant, ($25,000)__, University of California, Davis -->
+### Graduate Funding:
+`2022  –  2023`
+__Investigating Hippocampal Contribution to Memory Development in Healthy Children and Children with Chronic Asthma__, Learning-Memory-Plasticity (LaMP) Program, NIH T32 MH112507, ($54,000)
+Role: Doctoral Student Trainee
+
+`2022`
+__Linking Chronic Asthma to Memory Impairments in Children__, Memory and Plasticity (MAP) Program, ($25,000)
+PI: Simona Ghetti
+Role: Doctoral Student Researcher
+
+
 ### Undergraduate Funding:
 `2015`
-__Support for Undergraduate Research Fellows (SURF), ($1,500)__, University of Wisconsin, Milwaukee
+__Support for Undergraduate Research Fellows (SURF)__, ($1,500), University of Wisconsin, Milwaukee
 
 
 ## TEACHING EXPERIENCE
@@ -81,12 +98,21 @@ __Support for Undergraduate Research Fellows (SURF), ($1,500)__, University of W
 `2021`
 PSY 135, __Cognitive Neuroscience__ (Instructor, Evan Antzoulatos, Ph.D.)
 
-`2021`
+`2022`
 PSY 103, __Statistical Analysis of Psychological Data__ (Instructor, Shelley Blozis, Ph.D.)
+
+`2022`
+PSY 146, __The Development of Memory__ (Instructor, Simona Ghetti, Ph.D.)
 
 
 ## PUBLICATIONS
 ### Published:
+Picci, G., __Christopher-Hayes, N.J.__, Petro, N.M., Taylor, B.K., Eastman, J.A., Frenzel, M.R., Wang, Y.-P., Stephen, J.M., Calhoun, V.D., Wilson, T.W. (2022). Amygdala and hippocampal subregions mediate outcomes following trauma during typical development: Evidence from high-resolution structural MRI. Neurobiology of Stress. <a href="https://doi.org/10.1016/j.ynstr.2022.100456">Public Link</a>
+<br>
+
+Springer, S.D., Wiesman, A. I., May, P. E., Schantell, M., Johnson, H. J., Willet, M. P., Castelblanco, C.A., Eastman, J.A., __Christopher‐Hayes, N. J.__, Wolfson, S. L., Johnson, C. M., Murman, D. L., Wilson, T. W. (2022). Altered visual entrainment in patients with Alzheimer’s disease: magnetoencephalography evidence. Brain Communications.<a href="https://doi.org/10.1093/braincomms/fcac198">Public Link</a>
+<br>
+
 __Christopher-Hayes, N. J.__, Lew, B. J., Wiesman, A. I., Schantell, M., O’Neill, J., May, P. E., Swindells, S., Wilson, T. W. (2021). Cannabis use impacts pre-stimulus neural activity in the visual cortices of people with HIV. Human Brain Mapping.
 <br>
 
@@ -94,7 +120,7 @@ Wiesman, A. I., __Christopher-Hayes, N. J.__, Wilson, T. W. (2021b). Stairway to
 <br>
 
 Wiesman, A. I., Murman, D. L., Losh, R. A., Schantell, M., __Christopher‐Hayes, N. J.__, Johnson, H. J., Willet, M. P., Wolfson, S. L., Losh, K. L., Johnson, C. M., May, P. E., Wilson, T. W. (2021). Spatially resolved neural slowing predicts impairment and amyloid burden in Alzheimer’s disease. BRAIN.
-<br><br><br><br><br>
+<br>
 
 Warren, D. E., Rangel, A. J., __Christopher‐Hayes, N. J.__, Eastman, J. A., Frenzel, M. R., Stephen, J. M., Calhoun, V. D., Wang, Y., Wilson, T. W. (2021). Resting‐state functional connectivity of the human hippocampus in periadolescent children: Associations with age and memory performance. Human Brain Mapping.
 <br>
@@ -109,27 +135,26 @@ Arif, Y., Wiesman, A. I., __Christopher-Hayes, N. J.__, Wilson, T. W. (2021). Ab
 <br>
 
 ### Under Review:
+__Christopher-Hayes, N. J.__, Embury, C. M., Wiesman, A. I., May, P. E., Schantell, M., Johnson, C. M., Wolfson, S. L., Murman, D. L., Wilson, T. W. Piecing it together: hippocampal subfield profiles relate to cognitive impairment along the Alzheimer’s disease spectrum. (Neurobiology of Aging, 2022).
+<br>
+
 Rempe, M., Lew, B. J., Embury, C. M., __Christopher-Hayes, N. J.__, Schantell, M., Wilson, T. W. Spontaneous sensorimotor beta power and cortical thickness uniquely predict. (NeuroImage, 2022).
 <br>
 
-Picci, G., __Christopher-Hayes, N. J.__, Petro, N., Wilson, T. W. Brain mediated adaptation following trauma in typically developing youth: A preliminary study. (Neurobiology of Stress, 2021).
-<br>
-
-Springer, S.D., Wiesman, A. I., May, P. E., Schantell, M., Johnson, H. J., Willet, M. P.,  Eastman, J.A., __Christopher‐Hayes, N. J.__, Wolfson, S. L., Johnson, C. M., Murman, D. L., Wilson, T. W. Altered Visual Entrainment in Patients with Alzheimer’s Disease: MEG Evidence. (Brain Communications, 2021).
+Picci, G., Casagrande, C.C., Ott, L.R., Petro, N.M., __Christopher-Hayes, N.J.__, Johnson, H.J., Willett, M.P., Okelberry, H.J., Wang, Y.-P., Stephen, J.M., Calhoun, V.D., Wilson, T.W. DHEA mediates associations between subclinical anxiety and anterior pituitary volume in children and adolescents. (Molecular Psychiatry, 2022).
 <br>
 
 ### In prep:
-__Christopher-Hayes, N. J.__, Embury, C. M., Wiesman, A. I., May, P. E., Schantell, M., Johnson, C. M., Wolfson, S. L., Murman, D. L., Wilson, T. W. Piecing it together: hippocampal subfield profiles relate to cognitive impairment along the Alzheimer’s disease spectrum.
-<br>
 
-Phipps, C. J., Rangel, A., __Christopher-Hayes, N. J.__, Phatak, V., Murman, D., Warren, D. E. Measuring brain and cognitive changes in memory systems after targeted multiday repetitive transcranial magnetic stimulation of healthy young, healthy old, and amnestic mild cognitive impairment(aMCI) participants.
-<br>
 
-Phipps, C. J., __Christopher-Hayes, N. J.__, Torres-Russotto, D., Warren, D. E.. Measurement of functional brain network connectivity in people with orthostatic tremor using MRI and transcranial magnetic stimulation.
-<br>
 
 ## INTER/NATIONAL CONFERENCES
+Casagrande, C.C., Picci, G., Petro, N.M., Ott, L.R., __Christopher-Hayes, N.J.__, Eastman, J.A., Frenzel, M.R., Wang, Y.-P., Stephen, J.M., Calhoun, V.D., Wilson, T.W. (2022). Salivary DHEA mediates associations between trauma-related anxiety symptoms and anterior pituitary volume in adolescents. Biological Psychiatry.
 <br>
+
+Picci, G., __Christopher-Hayes, N.J.__, Petro, N.M., Taylor, B.K., Eastman, J.A., Frenzel, M.R., Wang, Y.-P., Stephen, J.M., Calhoun, V.D., Wilson, T.W. (2022). High-Resolution Structural MRI Suggests Protective Effects of Amygdala and Hippocampal Subregional Volume Following Traumatic Experiences‬. Biological Psychiatry.
+<br>
+
 __Christopher-Hayes, N. J.__, Embury, C. M., Wiesman, A. I., May, P. E., Schantell, M., Johnson, C. M., Wolfson, S. L., Murman, D. L., Wilson, T. W. (2021). Piecing it together: relationships between hippocampal subfields and cognitive impairment along the Alzheimer’s disease spectrum. Alzheimer’s Association International Conference.
 <br>
 
@@ -140,7 +165,7 @@ Jing, R., __Christopher-Hayes, N. J.__, Rangel, A. J., Murman, D. L., Warren, D.
 <br>
 
 Phipps, C. J., Rangel, A., __Christopher-Hayes, N. J.__, Phatak, V., Murman, D. L., Warren, D. E. (2020). Measuring change in memory networks after targeted repetitive transcranial magnetic stimulation. Organization for Human Brain Mapping.
-<br><br><br><br>
+<br>
 
 Phipps, C. J., Rangel, A., __Christopher-Hayes, N. J.__, Phatak, V., Murman, D. L., Warren, D. E. (2019). Measuring brain and cognitive changes in memory systems after targeted multiday repetitive transcranial magnetic stimulation of healthy young, healthy old, and amnestic mild cognitive impairment(aMCI) participants. Alzheimer’s Association International Conference.
 <br>
@@ -185,7 +210,6 @@ __Christopher-Hayes, N. J.__, Hopkins, L. S., Helmstetter, F. J., Hannula, D. E.
 ## INVITED TALKS
 __Christopher-Hayes, N. J.__. Neuroimaging and Neurostimulation in Alzheimer’s. (2017). Fremont Area Alzheimer’s Collaboration.
 
-<br><br><br><br><br><br><br><br><br>
 ## SYSTEMS AND COMPUTING
 ### Authored Packages: 
 1) __ArtifactScanTool (AST)__ – A Matlab-based package for automated statistical identification, rejection, and plotting of artifactual MEG channels and epochs. Versions available for BESA and Brainstorm software packages. <a href="https://github.com/nichrishayes/ArtifactScanTool">Download here</a>
@@ -198,15 +222,13 @@ __Christopher-Hayes, N. J.__. Neuroimaging and Neurostimulation in Alzheimer’s
 __FreeSurfer__,    __Brainstorm__,    __FSL__,    __ASHS__,    __AFNI__,    __SPM__,    __Fieldtrip__,    __3D Slicer__
 
 ### Hardware:
-__Siemens Prisma__ 3T MRI System,    __Elekta MEGIN__ MEG System,
+__Siemens Prisma/Skyra/Trio__ 3T MRI System,    __Elekta MEGIN__ MEG System,
 
 __Eye-Trac__ 6,    __Eyelink__ 1000,    __Nexstim__ NBS 5.1
 
 ### Languages:
-__Python, Git, Bash/Shell, Matlab, Java, HTML__
+__Python, R, Git, Bash/Shell, Matlab, Java, HTML__
 
-### Research Systems:
-__MoinMoin Wiki (Python/Linux)__
 
 ## SCIENTIFIC COMMUNITY OUTREACH
 `2018  –  2019`
