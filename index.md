@@ -54,6 +54,7 @@ __MEG Research Associate__
 PI: Dr. Tony W. Wilson
 
 Boys Town National Research Hospital, Institute for Human Neuroscience
+
 University of Nebraska Medical Center, Department of Neurological Sciences
 
 ### WN Lab:
@@ -79,18 +80,15 @@ University of Wisconsin-Milwaukee, Department of Psychology
 __Memory and Plasticity (MAP) Seed Grant, ($25,000)__, University of California, Davis -->
 ### Graduate Funding:
 `2022  –  2023`
-__Investigating Hippocampal Contribution to Memory Development in Healthy Children and Children with Chronic Asthma__, Learning-Memory-Plasticity (LaMP) Program, NIH T32 MH112507, ($54,000)
-Role: Doctoral Student Trainee
+__Investigating Hippocampal Contribution to Memory Development in Healthy Children and Children with Chronic Asthma__, Learning-Memory-Plasticity (LaMP) Program, NIH T32 MH112507 __($54,000)__, Role: Doctoral Student Trainee
 
 `2022`
-__Linking Chronic Asthma to Memory Impairments in Children__, Memory and Plasticity (MAP) Program, ($25,000)
-PI: Simona Ghetti
-Role: Doctoral Student Researcher
+__Linking Chronic Asthma to Memory Impairments in Children__, UC Davis Memory and Plasticity (MAP) Program __($25,000)__, PI: Simona Ghetti, Role: Doctoral Student Researcher
 
 
 ### Undergraduate Funding:
 `2015`
-__Support for Undergraduate Research Fellows (SURF)__, ($1,500), University of Wisconsin, Milwaukee
+__Support for Undergraduate Research Fellows (SURF) ($1,500)__, University of Wisconsin, Milwaukee
 
 
 ## TEACHING EXPERIENCE
@@ -107,10 +105,10 @@ PSY 146, __The Development of Memory__ (Instructor, Simona Ghetti, Ph.D.)
 
 ## PUBLICATIONS
 ### Published:
-Picci, G., __Christopher-Hayes, N.J.__, Petro, N.M., Taylor, B.K., Eastman, J.A., Frenzel, M.R., Wang, Y.-P., Stephen, J.M., Calhoun, V.D., Wilson, T.W. (2022). Amygdala and hippocampal subregions mediate outcomes following trauma during typical development: Evidence from high-resolution structural MRI. Neurobiology of Stress. <a href="https://doi.org/10.1016/j.ynstr.2022.100456">Public Link</a>
+Picci, G., __Christopher-Hayes, N.J.__, Petro, N.M., Taylor, B.K., Eastman, J.A., Frenzel, M.R., Wang, Y.-P., Stephen, J.M., Calhoun, V.D., Wilson, T.W. (2022). Amygdala and hippocampal subregions mediate outcomes following trauma during typical development: Evidence from high-resolution structural MRI. Neurobiology of Stress.
 <br>
 
-Springer, S.D., Wiesman, A. I., May, P. E., Schantell, M., Johnson, H. J., Willet, M. P., Castelblanco, C.A., Eastman, J.A., __Christopher‐Hayes, N. J.__, Wolfson, S. L., Johnson, C. M., Murman, D. L., Wilson, T. W. (2022). Altered visual entrainment in patients with Alzheimer’s disease: magnetoencephalography evidence. Brain Communications.<a href="https://doi.org/10.1093/braincomms/fcac198">Public Link</a>
+Springer, S.D., Wiesman, A. I., May, P. E., Schantell, M., Johnson, H. J., Willet, M. P., Castelblanco, C.A., Eastman, J.A., __Christopher‐Hayes, N. J.__, Wolfson, S. L., Johnson, C. M., Murman, D. L., Wilson, T. W. (2022). Altered visual entrainment in patients with Alzheimer’s disease: magnetoencephalography evidence. Brain Communications.
 <br>
 
 __Christopher-Hayes, N. J.__, Lew, B. J., Wiesman, A. I., Schantell, M., O’Neill, J., May, P. E., Swindells, S., Wilson, T. W. (2021). Cannabis use impacts pre-stimulus neural activity in the visual cortices of people with HIV. Human Brain Mapping.
@@ -145,12 +143,12 @@ Picci, G., Casagrande, C.C., Ott, L.R., Petro, N.M., __Christopher-Hayes, N.J.__
 <br>
 
 ### In prep:
-
+__Christopher-Hayes, N.J.__, Johnson, E.G., Mooney, L.N., Kazemi, A., Lee, J.K., Fandakova, Y., Bunge, S.A., Ghetti, S. Longitudinal Changes of Hippocampal Subfields Predict Memory Improvements at the Transition into Adolescence.
 
 
 ## INTER/NATIONAL CONFERENCES
 Casagrande, C.C., Picci, G., Petro, N.M., Ott, L.R., __Christopher-Hayes, N.J.__, Eastman, J.A., Frenzel, M.R., Wang, Y.-P., Stephen, J.M., Calhoun, V.D., Wilson, T.W. (2022). Salivary DHEA mediates associations between trauma-related anxiety symptoms and anterior pituitary volume in adolescents. Biological Psychiatry.
-<br>
+<br><br><br>
 
 Picci, G., __Christopher-Hayes, N.J.__, Petro, N.M., Taylor, B.K., Eastman, J.A., Frenzel, M.R., Wang, Y.-P., Stephen, J.M., Calhoun, V.D., Wilson, T.W. (2022). High-Resolution Structural MRI Suggests Protective Effects of Amygdala and Hippocampal Subregional Volume Following Traumatic Experiences‬. Biological Psychiatry.
 <br>
@@ -191,18 +189,19 @@ Spooner, R. K., __Christopher-Hayes, N. J.__, Stephen, J. M., Calhoun, V. D., Wa
 Spooner, R. K., __Christopher-Hayes, N. J.__, Stephen, J. M., Calhoun, V. D., Wang, Y.-P., Wilson, T. W., & Warren, D. E. (2017). Childhood development of behavioral and brain network changes related to basal ganglia: resting-state functional connectivity of striatal regions varies with performance on cognitive tasks in children. Cognitive Neuroscience Society.
 <br>
 
-Hopkins, L. S., __Christopher-Hayes, N. J.__, Helmstetter, F. J., Hannula, D. E. (2016). Contingency awareness is not required for fear conditioned capture of attention. Visual Sciences Society. <a href="https://doi.org/10.1167/16.12.1020">Public Link</a>
+Hopkins, L. S., __Christopher-Hayes, N. J.__, Helmstetter, F. J., Hannula, D. E. (2016). Contingency awareness is not required for fear conditioned capture of attention. Visual Sciences Society.
 <br>
 
 ## REGIONAL CONFERENCES
+<br><br><br>
 Phipps, C. J., __Christopher-Hayes, N. J.__, Torres-Russotto, D., Warren, D. E. (2019). Measurement of functional brain network connectivity in people with orthostatic tremor using MRI and transcranial magnetic stimulation. University of Nebraska Medical Center Annual Research Day. 
 <br>
 
 Pham, D., __Christopher-Hayes, N. J.__, Rangel, A., Stephen, J. M., Calhoun, V. D., Wang, Y.-P., Wilson, T. W., & Warren, D. E. (2017). Brain correlates of memory ability in youth. University of Nebraska Medical Center Summer Undergraduate Research Symposium.
 <br>
 
-Sajja, K., __Christopher-Hayes, N. J.__, Warren, D. E., Madhavan, D. (2017). Predicting outcomes after corpus callosotomy using FreeSurfer for processing and analyzing pre-surgical MRI images. University of Nebraska Medical Center Annual Research Day.
-<br>
+<!--Sajja, K., __Christopher-Hayes, N. J.__, Warren, D. E., Madhavan, D. (2017). Predicting outcomes after corpus callosotomy using FreeSurfer for processing and analyzing pre-surgical MRI images. University of Nebraska Medical Center Annual Research Day.
+<br>-->
 
 __Christopher-Hayes, N. J.__, Hopkins, L. S., Helmstetter, F. J., Hannula, D. E. (2016). Oculomotor capture by aversive stimuli. UW-Milwaukee Undergraduate Research Symposium.
 
@@ -212,7 +211,7 @@ __Christopher-Hayes, N. J.__. Neuroimaging and Neurostimulation in Alzheimer’s
 
 ## SYSTEMS AND COMPUTING
 ### Authored Packages: 
-1) __ArtifactScanTool (AST)__ – A Matlab-based package for automated statistical identification, rejection, and plotting of artifactual MEG channels and epochs. Versions available for BESA and Brainstorm software packages. <a href="https://github.com/nichrishayes/ArtifactScanTool">Download here</a>
+1) __ArtifactScanTool (AST)__ – A Matlab-based package for automated statistical identification, rejection, and plotting of artifactual MEG channels and epochs. Versions available for BESA and Brainstorm software packages.
 
 2) __PyStiMEP__ – A Python-based package for automated neurostimulation event-related motor evoked potential (MEP) identification, extraction, and plotting
 
