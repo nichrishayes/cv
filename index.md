@@ -40,7 +40,7 @@ __Senior Research Project__: _Oculomotor capture by aversive stimuli_
 ## PROFESSIONAL RESEARCH EXPERIENCE
 ### MAD Lab:
 `2021  –  PRSNT`
-__Doctoral Student, (Y1)__
+__Doctoral Student, (Y2)__
 
 __PI: Dr. Simona Ghetti__
 
@@ -55,6 +55,8 @@ __PI: Dr. Tony W. Wilson__
 
 __Boys Town National Research Hospital, Institute for Human Neuroscience__
 
+__University of Nebraska Medical Center, Department of Neurological Sciences__
+
 -Processing and analysis of Magnetic Resonance Imaging (MRI), Magnetoencephalography (MEG), Positron Emission Tomography (PET), Arterial Spin Labelling (ASL), and Electromyography (EMG) data
 
 -Processing pipeline and toolbox development
@@ -68,7 +70,7 @@ __Boys Town National Research Hospital, Institute for Human Neuroscience__
 -Manuscript and figure preparation for inclusion in scholarly conference presentations and publications
 
 
-### Warren Neuroscience Lab:
+### WN Lab:
 `2016  –  2019`
 __Clinical Research Associate__
 
@@ -115,23 +117,17 @@ __Law Clerk__, Milwaukee, WI
 __President__, Milwaukee, WI
 
 ## FUNDED AWARDS
-<!-- ### Graduate Funding:
-`2022`
-__Memory and Plasticity (MAP) Seed Grant, ($25,000)__, University of California, Davis -->
 ### Graduate Funding:
 `2022  –  2023`
-__Investigating Hippocampal Contribution to Memory Development in Healthy Children and Children with Chronic Asthma__, Learning-Memory-Plasticity (LaMP) Program, NIH T32 MH112507, ($54,000)
-Role: Doctoral Student Trainee
+__Investigating Hippocampal Contribution to Memory Development in Healthy Children and Children with Chronic Asthma__, Learning-Memory-Plasticity (LaMP) Program, NIH T32 MH112507 __($54,000)__, Role: Doctoral Student Trainee
 
 `2022`
-__Linking Chronic Asthma to Memory Impairments in Children__, Memory and Plasticity (MAP) Program, ($25,000)
-PI: Simona Ghetti
-Role: Doctoral Student Researcher
+__Linking Chronic Asthma to Memory Impairments in Children__, UC Davis Memory and Plasticity (MAP) Program __($25,000)__, PI: Simona Ghetti, Role: Doctoral Student Researcher
+
 
 ### Undergraduate Funding:
 `2015`
-__Support for Undergraduate Research Fellows (SURF)__, ($1,500), University of Wisconsin, Milwaukee
-
+__Support for Undergraduate Research Fellows (SURF) ($1,500)__, University of Wisconsin, Milwaukee
 
 ## TEACHING EXPERIENCE
 ### Teaching Assistant:
@@ -175,9 +171,7 @@ Wiesman, A. I., __Christopher-Hayes, N. J.__, Eastman, J. A., Heinrichs-Graham, 
 Arif, Y., Wiesman, A. I., __Christopher-Hayes, N. J.__, Wilson, T. W. (2021). Aberrant inhibitory processing in the somatosensory cortices of cannabis-users. Journal of Psychopharmacology. <a href="https://doi.org/10.1177/02698811211050557">Public Link</a>
 <br>
 
-<br>
 ### Under Review:
-
 __Christopher-Hayes, N. J.__, Embury, C. M., Wiesman, A. I., May, P. E., Schantell, M., Johnson, C. M., Wolfson, S. L., Murman, D. L., Wilson, T. W. Piecing it together: hippocampal subfield profiles relate to cognitive impairment along the Alzheimer’s disease spectrum. (Neurobiology of Aging, 2022).
 <br>
 
@@ -188,6 +182,7 @@ Picci, G., Casagrande, C.C., Ott, L.R., Petro, N.M., __Christopher-Hayes, N.J.__
 <br>
 
 ### In prep:
+__Christopher-Hayes, N.J.__, Johnson, E.G., Mooney, L.N., Kazemi, A., Lee, J.K., Fandakova, Y., Bunge, S.A., Ghetti, S. Longitudinal Changes of Hippocampal Subfields Predict Memory Improvements at the Transition into Adolescence.
 
 
 ## INTER/NATIONAL CONFERENCES
