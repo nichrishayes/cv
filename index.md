@@ -85,7 +85,6 @@ __Investigating Hippocampal Contribution to Memory Development in Healthy Childr
 `2022`
 __Linking Chronic Asthma to Memory Impairments in Children__, UC Davis Memory and Plasticity (MAP) Program __($25,000)__, PI: Simona Ghetti, Role: Doctoral Student Researcher
 
-
 ### Undergraduate Funding:
 `2015`
 __Support for Undergraduate Research Fellows (SURF) ($1,500)__, University of Wisconsin, Milwaukee
@@ -147,13 +146,15 @@ Picci, G., Casagrande, C.C., Ott, L.R., Petro, N.M., __Christopher-Hayes, N.J.__
 
 ### In prep:
 Rempe, M., Wiesman, A. I., Murman, D. L., May, P. E., __Christopher-Hayes, N. J.__, Wolfson, S. L., Johnson, C. M., Wilson, T. W. Sleep quality mediates and moderates associations between cognitive function, amyloid burden, and resting neural oscillations in Alzheimer’s disease.
+<br><br>
 
 __Christopher-Hayes, N.J.__, Johnson, E.G., Mooney, L.N., Kazemi, A., Lee, J.K., Fandakova, Y., Bunge, S.A., Ghetti, S. Longitudinal Changes of Hippocampal Subfields Predict Memory Improvements at the Transition into Adolescence.
 
 
 ## INTER/NATIONAL CONFERENCES
+<br>
 Casagrande, C.C., Picci, G., Petro, N.M., Ott, L.R., __Christopher-Hayes, N.J.__, Eastman, J.A., Frenzel, M.R., Wang, Y.-P., Stephen, J.M., Calhoun, V.D., Wilson, T.W. (2022). Salivary DHEA mediates associations between trauma-related anxiety symptoms and anterior pituitary volume in adolescents. Biological Psychiatry.
-<br><br><br>
+<br>
 
 Picci, G., __Christopher-Hayes, N.J.__, Petro, N.M., Taylor, B.K., Eastman, J.A., Frenzel, M.R., Wang, Y.-P., Stephen, J.M., Calhoun, V.D., Wilson, T.W. (2022). High-Resolution Structural MRI Suggests Protective Effects of Amygdala and Hippocampal Subregional Volume Following Traumatic Experiences‬. Biological Psychiatry.
 <br>
@@ -189,7 +190,7 @@ __Christopher-Hayes, N. J.__, Rangel, A., Stephen, J. M., Calhoun, V. D., Wang, 
 <br>
 
 Spooner, R. K., __Christopher-Hayes, N. J.__, Stephen, J. M., Calhoun, V. D., Wang, Y.-P., Wilson, T. W., & Warren, D. E. (2017). Intrinsic functional connectivity of the striatum covaries with cognitive performance in adolescents. Organization for Human Brain Mapping.
-<br>
+<br><br><br><br><br><br>
 
 Spooner, R. K., __Christopher-Hayes, N. J.__, Stephen, J. M., Calhoun, V. D., Wang, Y.-P., Wilson, T. W., & Warren, D. E. (2017). Childhood development of behavioral and brain network changes related to basal ganglia: resting-state functional connectivity of striatal regions varies with performance on cognitive tasks in children. Cognitive Neuroscience Society.
 <br>
@@ -198,7 +199,7 @@ Hopkins, L. S., __Christopher-Hayes, N. J.__, Helmstetter, F. J., Hannula, D. E.
 <br>
 
 ## REGIONAL CONFERENCES
-<br><br><br>
+<br>
 Phipps, C. J., __Christopher-Hayes, N. J.__, Torres-Russotto, D., Warren, D. E. (2019). Measurement of functional brain network connectivity in people with orthostatic tremor using MRI and transcranial magnetic stimulation. University of Nebraska Medical Center Annual Research Day. 
 <br>
 
@@ -251,6 +252,7 @@ New Horizons Un-Limited Inc. - Independent Disabilities Advocacy and Rehabilitat
 `2014 – PRSNT`
 TMS (NBS System 5.1),    MRI Safety,    CITI
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## RESEARCH REFERENCES
 __Dr. Simona Ghetti__
 Professor and Vice-Chair for Undergraduate Education
@@ -300,6 +302,6 @@ dlmurman@unmc.edu
 <!-- ### Footer
 Nicholas Christopher-Hayes
 Curriculum Vitae
-Last updated: September 2021 -->
+Last updated: November 2022 -->
 
 
