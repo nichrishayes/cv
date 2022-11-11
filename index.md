@@ -108,7 +108,13 @@ PSY 146, __The Development of Memory__ (Instructor, Simona Ghetti, Ph.D.)
 Picci, G., __Christopher-Hayes, N.J.__, Petro, N.M., Taylor, B.K., Eastman, J.A., Frenzel, M.R., Wang, Y.-P., Stephen, J.M., Calhoun, V.D., Wilson, T.W. (2022). Amygdala and hippocampal subregions mediate outcomes following trauma during typical development: Evidence from high-resolution structural MRI. Neurobiology of Stress.
 <br>
 
+Rempe, M., Ott, L. R., Picci, G., Penhale, S. H., __Christopher-Hayes, N. J.__, Schantell, M., Johnson, H. J., Okelberry, H. J., Losh, K. L., Willett, M. P., Losh, R. A., Wang, Y.-P., Stephen, J.M., Calhoun, V.D., Heinrichs-Graham, E., Kurz, M. K., Wilson, T. W. (2022). Spontaneous cortical dynamics from the first years to the golden years. PNAS.
+<br>
+
 Springer, S.D., Wiesman, A. I., May, P. E., Schantell, M., Johnson, H. J., Willet, M. P., Castelblanco, C.A., Eastman, J.A., __Christopher‐Hayes, N. J.__, Wolfson, S. L., Johnson, C. M., Murman, D. L., Wilson, T. W. (2022). Altered visual entrainment in patients with Alzheimer’s disease: magnetoencephalography evidence. Brain Communications.
+<br>
+
+Rempe, M., Lew, B. J., Embury, C. M., __Christopher-Hayes, N. J.__, Schantell, M., Wilson, T. W. (2022). Spontaneous sensorimotor beta power and cortical thickness uniquely predict. NeuroImage 263, 119651.
 <br>
 
 __Christopher-Hayes, N. J.__, Lew, B. J., Wiesman, A. I., Schantell, M., O’Neill, J., May, P. E., Swindells, S., Wilson, T. W. (2021). Cannabis use impacts pre-stimulus neural activity in the visual cortices of people with HIV. Human Brain Mapping.
@@ -136,13 +142,12 @@ Arif, Y., Wiesman, A. I., __Christopher-Hayes, N. J.__, Wilson, T. W. (2021). Ab
 __Christopher-Hayes, N. J.__, Embury, C. M., Wiesman, A. I., May, P. E., Schantell, M., Johnson, C. M., Wolfson, S. L., Murman, D. L., Wilson, T. W. Piecing it together: hippocampal subfield profiles relate to cognitive impairment along the Alzheimer’s disease spectrum. (Neurobiology of Aging, 2022).
 <br>
 
-Rempe, M., Lew, B. J., Embury, C. M., __Christopher-Hayes, N. J.__, Schantell, M., Wilson, T. W. Spontaneous sensorimotor beta power and cortical thickness uniquely predict. (NeuroImage, 2022).
-<br>
-
-Picci, G., Casagrande, C.C., Ott, L.R., Petro, N.M., __Christopher-Hayes, N.J.__, Johnson, H.J., Willett, M.P., Okelberry, H.J., Wang, Y.-P., Stephen, J.M., Calhoun, V.D., Wilson, T.W. DHEA mediates associations between subclinical anxiety and anterior pituitary volume in children and adolescents. (Molecular Psychiatry, 2022).
+Picci, G., Casagrande, C.C., Ott, L.R., Petro, N.M., __Christopher-Hayes, N.J.__, Johnson, H.J., Willett, M.P., Okelberry, H.J., Wang, Y.-P., Stephen, J.M., Calhoun, V.D., Wilson, T.W. DHEA mediates associations between subclinical anxiety and anterior pituitary volume in children and adolescents. (Human Brain Mapping, 2022).
 <br>
 
 ### In prep:
+Rempe, M., Wiesman, A. I., Murman, D. L., May, P. E., __Christopher-Hayes, N. J.__, Wolfson, S. L., Johnson, C. M., Wilson, T. W. Sleep quality mediates and moderates associations between cognitive function, amyloid burden, and resting neural oscillations in Alzheimer’s disease.
+
 __Christopher-Hayes, N.J.__, Johnson, E.G., Mooney, L.N., Kazemi, A., Lee, J.K., Fandakova, Y., Bunge, S.A., Ghetti, S. Longitudinal Changes of Hippocampal Subfields Predict Memory Improvements at the Transition into Adolescence.
 
 
