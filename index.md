@@ -17,6 +17,7 @@ title: Nicholas Christopher-Hayes's CV
 	<br><a href="https://nichrishayes.github.io/">Personal website</a>
 </div>
 
+<!--<div style="page-break-after: always"></div> -->
 
 ## EDUCATION
 `2021  –  PRSNT`
@@ -287,16 +288,19 @@ __Eye-Trac__ 6,    __Eyelink__ 1000,    __Nexstim__ NBS 5.1
 __Python, R, Git, Bash/Shell, Matlab, Java, HTML__
 
 ## SCIENTIFIC COMMUNITY OUTREACH
-Science Education Outreach and Engagement Program, UNMC Science Education Partnership Award (SEPA): Health and science education in Native American communities and The National Cancer Institute’s Youth Enjoy Science Research Program (YES)
+*NeuroCareer Pathways Series*, UC Davis Learning-Memory-Plasticity (LaMP) Program
+`2023  –  PRSNT`
+
+*Science Education Outreach and Engagement Program*, UNMC Science Education Partnership Award (SEPA): Health and science education in Native American communities and The National Cancer Institute’s Youth Enjoy Science Research Program (YES)
 `2018  –  2019`
 
-Fremont Area Alzheimer’s Collaboration, Memory Walk
+*Fremont Area Alzheimer’s Collaboration*, Memory Walk
 `2016  –  2017`
 
-Federal TRIO Program, Upward Bound Math-Science
+*Federal TRIO Program*, Upward Bound Math-Science
 `2014  &  2015`
 
-New Horizons Un-Limited Inc. - Independent Disabilities Advocacy and Rehabilitation Center for Computer Training, Refurbishing, and Workforce Preparation
+*New Horizons Un-Limited Inc.*, Independent Disabilities Advocacy and Rehabilitation Center for Computer Training, Refurbishing, and Workforce Preparation
 `2012  –  2014`
 
 ## CERTIFICATIONS
@@ -308,8 +312,7 @@ Avid English Premiere League Observer, Photographer sometimes, Guitarist almost,
 
 ## RESEARCH REFERENCES
 __Dr. Simona Ghetti__
-Professor and Vice-Chair for Undergraduate Education
-Department of Psychology and
+Professor, Department of Psychology
 Center for Mind and Brain
 University of California, Davis
 One Shields Avenue
@@ -319,12 +322,20 @@ sghetti@ucdavis.edu
 __Dr. Tony W. Wilson__
 Patrick E. Brookhouser Endowed Chair in Cognitive Neuroscience
 Director, Institute for Human Neuroscience
-Boys Town National
-Research Hospital
+Boys Town National Research Hospital
 14090 Mother Teresa Lane
 Boys Town, NE 68010
-531-355-8909
 tony.wilson@boystown.org
+
+__Dr. Kimberley A. McAllister__
+Professor, Departments of Neurology and Neurobiology, Physiology, & Behavior
+Director, Center for Neuroscience, NIMH LaMP T32
+Co-director, UC Davis Conte Center
+Center for Neuroscience
+University of California, Davis
+1544 Newton Ct, 
+Davis, CA 95618
+kmcallister@ucdavis.edu
 
 __Dr. Deborah E. Hannula__
 Associate Professor, Associate Chair, Department of Psychology
@@ -332,7 +343,6 @@ University of Wisconsin-Milwaukee
 Garland Hall
 P.O. Box 413
 Milwaukee, WI 53201
-414-229-4158
 hannula@uwm.edu
 
 __Dr. Alex I. Wiesman__
@@ -340,16 +350,14 @@ National Institutes of Health Postdoctoral Fellow
 Montreal Neurological Institute
 McGill University
 3801 Rue University | Montréal, QC H3A 2B4
-438-506-3709
 aiwiesman@gmail.com
 
 __Dr. Daniel L. Murman, MD, MS, FAAN__
-Director, Behavioral and Geriatric Neurology Program
 Professor, Department of Neurological Sciences
+Director, Behavioral and Geriatric Neurology Program
 University of Nebraska Medical Center
 988440 Nebraska Medical Center
 Omaha, NE 68198-8440
-402-559-6591
 dlmurman@unmc.edu
 
 <!-- ### Footer
