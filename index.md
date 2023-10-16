@@ -130,17 +130,6 @@ __Linking Chronic Asthma to Memory Impairments in Children__, UC Davis Memory an
 `2015`
 __Support for Undergraduate Research Fellows (SURF) ($1,500)__, University of Wisconsin, Milwaukee
 
-## TEACHING EXPERIENCE
-### Teaching Assistant:
-`2021`
-PSY 135, __Cognitive Neuroscience__ (Instructor, Evan Antzoulatos, Ph.D.)
-
-`2022`
-PSY 103, __Statistical Analysis of Psychological Data__ (Instructor, Shelley Blozis, Ph.D.)
-
-`2022, 2023`
-PSY 146, __The Development of Memory__ (Instructor, Simona Ghetti, Ph.D.)
-
 
 ## PUBLICATIONS
 ### Published:
@@ -267,6 +256,52 @@ __Christopher-Hayes, N.J.__. Neurocognitive risk and chronic disease: The case o
 
 __Christopher-Hayes, N.J.__. Neuroimaging and Neurostimulation in Alzheimer’s. (2017). Fremont Area Alzheimer’s Collaboration. Omaha, NE.
 
+
+## JEDI/COMMUNITY OUTREACH
+*NeuroCareer Pathways Series*, UC Davis Learning-Memory-Plasticity (LaMP) Program
+`2023  –  PRSNT`
+
+*Science Education Outreach and Engagement Program*, UNMC Science Education Partnership Award (SEPA): Health and science education in Native American communities and The National Cancer Institute’s Youth Enjoy Science Research Program (YES)
+`2018  –  2019`
+
+*Fremont Area Alzheimer’s Collaboration*, Memory Walk
+`2016  –  2017`
+
+*Federal TRIO Program*, Upward Bound Math-Science
+`2014  &  2015`
+
+*New Horizons Un-Limited Inc.*, Independent Disabilities Advocacy and Rehabilitation Center for Computer Training, Refurbishing, and Workforce Preparation
+`2012  –  2014`
+
+## TEACHING EXPERIENCE
+### Teaching Assistant:
+`2021`
+PSY 135, __Cognitive Neuroscience__ (Instructor, Evan Antzoulatos, Ph.D.)
+
+`2022`
+PSY 103, __Statistical Analysis of Psychological Data__ (Instructor, Shelley Blozis, Ph.D.)
+
+`2022, 2023`
+PSY 146, __The Development of Memory__ (Instructor, Simona Ghetti, Ph.D.)
+
+
+## MENTORSHIP EXPERIENCE
+### Graduate Students
+`2019  –  2021`
+Arif, Y., Rempe, M., Springer, S., University of Nebraska Medical Center
+
+### Undergraduate Research Assistants
+`2022  –  2023`
+Nguyen, B.D., UC Davis Cognitive Science Major. Project: Predicting fMRI data quality with Fitbit biometrics
+
+`2017  –  2019`
+Craft, S., Decesare, T., Rangel, A., Creighton University
+
+### High School Research Assistants
+`2022  –  PRSNT`
+Merchant, V.D. Project: Linking Chronic Asthma to Memory Impairments in Children
+
+
 ## SYSTEMS AND COMPUTING
 
 ### Authored Packages: 
@@ -286,22 +321,6 @@ __Eye-Trac__ 6,    __Eyelink__ 1000,    __Nexstim__ NBS 5.1
 
 ### Languages:
 __Python, R, Git, Bash/Shell, Matlab, Java, HTML__
-
-## SCIENTIFIC COMMUNITY OUTREACH
-*NeuroCareer Pathways Series*, UC Davis Learning-Memory-Plasticity (LaMP) Program
-`2023  –  PRSNT`
-
-*Science Education Outreach and Engagement Program*, UNMC Science Education Partnership Award (SEPA): Health and science education in Native American communities and The National Cancer Institute’s Youth Enjoy Science Research Program (YES)
-`2018  –  2019`
-
-*Fremont Area Alzheimer’s Collaboration*, Memory Walk
-`2016  –  2017`
-
-*Federal TRIO Program*, Upward Bound Math-Science
-`2014  &  2015`
-
-*New Horizons Un-Limited Inc.*, Independent Disabilities Advocacy and Rehabilitation Center for Computer Training, Refurbishing, and Workforce Preparation
-`2012  –  2014`
 
 ## CERTIFICATIONS
 `2014 – PRSNT`
