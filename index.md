@@ -23,25 +23,26 @@ title: Nicholas Christopher-Hayes's CV
 `2021  –  PRSNT`
 __PhD, Psychology, University of California, Davis__
 
-__Relevant Courses__: Statistical Analysis in Psychological Research, Fundamentals of Cognitive Neuroimaging, Cognitive and Perceptual Development, Causal Modeling and Correlational Data, Cognitive Neuroscience, Advanced Statistical Inference from Psychological Experiments
+__Cognitive Neuroscience Curricula__: Fundamentals of Cognitive Neuroimaging, Cognitive and Perceptual Development, Cognitive Neuroscience, Learning and Memory Plasticity (I-III), Career Development (I-III), Memory Development (I-II)
 
-__Research Projects__: _Longitudinal Changes of Hippocampal Subfields Predict Memory Improvements at the Transition into Adolescence_
+__Statistics Curricula__: Statistical Analysis in Psychological Research, Causal Modeling and Correlational Data, Advanced Statistical Inference from Psychological Experiments, Data Visualization, Longitudinal Data Analysis, Applied Bayesian Statistics, Monte Carlo Simulation Based Research Methods
 
 <br>
 
 `2011  –  2015`
 __BA, Psychology, University of Wisconsin, Milwaukee__
 
-__Relevant Courses__: Child Psychology, Psychological Statistics, Research Methods, Neuropsychology, Advanced Physiological Psychology, Cellular & Molecular Neuroscience, Brain Injury, Cognitive Neuroscience, Computer Science (Java 1), Computer Science (Java 2)
+__Psychology Curricula__: Child Psychology, Neuropsychology, Advanced Physiological Psychology, Cellular & Molecular Neuroscience, Brain Injury, Cognitive Neuroscience
+
+__Computing and Statistics Curricula__: Computer Science (Java 1), Computer Science (Java 2), Psychological Statistics, Research Methods
 
 __Senior Research Project__: _Oculomotor capture by aversive stimuli_
-
 
 
 ## PROFESSIONAL RESEARCH EXPERIENCE
 ### MAD Lab:
 `2021  –  PRSNT`
-__Doctoral Student, (Y3)__
+__Doctoral Student, (Y4)__
 
 __PI: Dr. Simona Ghetti__
 
@@ -134,19 +135,26 @@ __Support for Undergraduate Research Fellows (SURF) ($1,500)__, University of Wi
 ## PUBLICATIONS
 ### Published:
 <!-- • -->
+
+__Christopher-Hayes, N.J.__, Haynes, S.C., Kenyon, N.J., Merchant, V.D., Schweitzer, J.B., Ghetti, S., 2024. Asthma and Memory Function in Children. JAMA Network Open 7, e2442803. <a href="https://doi.org/10.1001/jamanetworkopen.2024.42803">Public Link</a>
+<br>
+
 __Christopher-Hayes, N.J.__, Embury, C. M., Wiesman, A.I., May, P.E., Schantell, M., Johnson, C.M., Wolfson, S.L., Murman, D.L., Wilson, T.W. (2023). Piecing it together: hippocampal subfield profiles relate to cognitive impairment along the Alzheimer’s disease spectrum. Frontiers in Aging Neuroscience, Section Alzheimer's Disease and Related Dementias. <a href="https://www.frontiersin.org/articles/10.3389/fnagi.2023.1212197/abstract">Public Link</a>
 <br>
 
-Picci, G., Casagrande, C.C., Ott, L.R., Petro, N.M., __Christopher-Hayes, N.J.__, Johnson, H.J., Willett, M.P., Okelberry, H.J., Wang, Y.-P., Stephen, J.M., Calhoun, V.D., Wilson, T.W. (2023). DHEA mediates associations between trauma-related symptoms and anterior pituitary volume in children and adolescents. Human Brain Mapping. <a href="">Public Link Coming Soon, DOI: 10.1002/hbm.26516</a>.
+Picci, G., Casagrande, C.C., Ott, L.R., Petro, N.M., __Christopher-Hayes, N.J.__, Johnson, H.J., Willett, M.P., Okelberry, H.J., Wang, Y.-P., Stephen, J.M., Calhoun, V.D., Wilson, T.W. (2023). Dehydroepiandrosterone mediates associations between trauma-related symptoms and anterior pituitary volume in children and adolescents. Human Brain Mapping 44, 6388–6398. <a href="https://doi.org/10.1002/hbm.26516">Public Link</a>
+<br>
+
+Rempe, M., Ott, L.R., Picci, G., Penhale, S.H., __Christopher-Hayes, N.J.__, Schantell, M., Johnson, H.J., Okelberry, H.J., Losh, K.L., Willett, M.P., Losh, R.A., Wang, Y.-P., Stephen, J.M., Calhoun, V.D., Heinrichs-Graham, E., Kurz, M.K., Wilson, T.W. (2023). Spontaneous cortical dynamics from the first years to the golden years. PNAS 120, e2212776120. <a href="">https://www.pnas.org/doi/10.1073/pnas.2212776120</a>
 <br>
 
 Rempe, M.P., Wiesman, A.I., Murman, D.L., May, P.E., __Christopher-Hayes, N.J.__, Wolfson, S.L., Johnson, C.M., Wilson, T.W. (2023). Sleep quality differentially modulates neural oscillations and proteinopathy in Alzheimer’s disease. eBioMedicine 92, 104610. <a href="https://doi.org/10.1016/j.ebiom.2023.104610">Public Link</a>
 <br>
 
-Picci, G., __Christopher-Hayes, N.J.__, Petro, N.M., Taylor, B.K., Eastman, J.A., Frenzel, M.R., Wang, Y.-P., Stephen, J.M., Calhoun, V.D., Wilson, T.W. (2022). Amygdala and hippocampal subregions mediate outcomes following trauma during typical development: Evidence from high-resolution structural MRI. Neurobiology of Stress. <a href="https://doi.org/10.1016/j.ynstr.2022.100456">Public Link</a>
+Arif, Y., Wiesman, A.I., __Christopher-Hayes, N.J.__, Okelberry, H.J., Johnson, H.J., Willett, M.P., Wilson, T.W. (2023). Altered age-related alpha and gamma prefrontal-occipital connectivity serving distinct cognitive interference variants. NeuroImage 120351. <a href="https://doi.org/10.1016/j.neuroimage.2023.120351">Public Link</a>
 <br>
 
-Rempe, M., Ott, L.R., Picci, G., Penhale, S.H., __Christopher-Hayes, N.J.__, Schantell, M., Johnson, H.J., Okelberry, H.J., Losh, K.L., Willett, M.P., Losh, R.A., Wang, Y.-P., Stephen, J.M., Calhoun, V.D., Heinrichs-Graham, E., Kurz, M.K., Wilson, T.W. (2022). Spontaneous cortical dynamics from the first years to the golden years. PNAS 120, e2212776120. <a href="">https://www.pnas.org/doi/10.1073/pnas.2212776120</a>
+Picci, G., __Christopher-Hayes, N.J.__, Petro, N.M., Taylor, B.K., Eastman, J.A., Frenzel, M.R., Wang, Y.-P., Stephen, J.M., Calhoun, V.D., Wilson, T.W. (2022). Amygdala and hippocampal subregions mediate outcomes following trauma during typical development: Evidence from high-resolution structural MRI. Neurobiology of Stress. <a href="https://doi.org/10.1016/j.ynstr.2022.100456">Public Link</a>
 <br>
 
 Springer, S.D., Wiesman, A.I., May, P.E., Schantell, M., Johnson, H.J., Willet, M.P., Castelblanco, C.A., Eastman, J.A., __Christopher‐Hayes, N. J.__, Wolfson, S.L., Johnson, C.M., Murman, D.L., Wilson, T.W. (2022). Altered visual entrainment in patients with Alzheimer’s disease: magnetoencephalography evidence. Brain Communications. <a href="https://doi.org/10.1093/braincomms/fcac198">Public Link</a>
@@ -177,7 +185,7 @@ Arif, Y., Wiesman, A.I., __Christopher-Hayes, N.J.__, Wilson, T.W. (2021). Aberr
 <br>
 
 ### In prep:
-__Christopher-Hayes, N.J.__, Haynes, S.C., Kenyon, N.J., Merchant, V.D., Schweitzer, J.B., Ghetti, S. Exploring Memory Functioning in Children with Asthma: Insight from the ABCD Study.
+__Christopher-Hayes, N.J.__, Ghetti, S. Neurocognitive Risks of Asthma During Childhood. (Under review, Developmental Cognitive Neuroscience).
 <br>
 
 __Christopher-Hayes, N.J.__, Johnson, E.G., Mooney, L.N., Kazemi, A., Lee, J.K., Fandakova, Y., Bunge, S.A., Ghetti, S. Longitudinal Changes of Hippocampal Subfields Predict Memory Improvements at the Transition into Adolescence.
@@ -257,7 +265,20 @@ __Christopher-Hayes, N.J.__. Neurocognitive risk and chronic disease: The case o
 __Christopher-Hayes, N.J.__. Neuroimaging and Neurostimulation in Alzheimer’s. (2017). Fremont Area Alzheimer’s Collaboration. Omaha, NE.
 
 
+## JOURNAL REVIEW
+*Neurobiology of Aging*
+
+
+## PROFESSIONAL MEMBERSHIPS
+FLUX Society
+Cognitive Neuroscience Society
+Organization for Human Brain Mapping
+
+
 ## JEDI/COMMUNITY OUTREACH
+*What Psychological Science Tells Us about Optimizing Learning* seminar series for first-generation undergraduates
+`2024`
+
 *NeuroCareer Pathways Series*, UC Davis Learning-Memory-Plasticity (LaMP) Program
 `2023  –  PRSNT`
 
@@ -275,14 +296,20 @@ __Christopher-Hayes, N.J.__. Neuroimaging and Neurostimulation in Alzheimer’s.
 
 ## TEACHING EXPERIENCE
 ### Teaching Assistant:
-`2021`
-PSY 135, __Cognitive Neuroscience__ (Instructor, Evan Antzoulatos, Ph.D.)
+`2025`
+PSY 131, __Perception__ (Instructor, John Nadra, Ph.D.)
+
+`2024  &  2025`
+PSY 130, __Human Memory__ (Instructor, Andy Yonelinas, Ph.D.)
+
+`2022  –  2024`
+PSY 146, __The Development of Memory__ (Instructor, Simona Ghetti, Ph.D.)
 
 `2022`
 PSY 103, __Statistical Analysis of Psychological Data__ (Instructor, Shelley Blozis, Ph.D.)
 
-`2022, 2023`
-PSY 146, __The Development of Memory__ (Instructor, Simona Ghetti, Ph.D.)
+`2021`
+PSY 135, __Cognitive Neuroscience__ (Instructor, Evan Antzoulatos, Ph.D.)
 
 
 ## MENTORSHIP EXPERIENCE
