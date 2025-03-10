@@ -8,7 +8,7 @@ title: Nicholas Christopher-Hayes's CV
 
 <em>Curriculum Vitae</em>
 
-__Doctoral Student__
+__PhD Candidate__
 
 <div id="webaddress">
 	Department of Psychology and the Center for Mind and Brain
