@@ -38,7 +38,7 @@ __PI: Dr. Simona Ghetti__
 
 __University of California Davis, Psychology__
 
-__Doctoral Student (Y4)__
+__PhD Candidate (Y4)__
 
 
 ### DICoN Lab:
