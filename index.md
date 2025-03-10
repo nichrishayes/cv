@@ -76,11 +76,6 @@ __Firm Administrator__, Milwaukee, WI
 `2012  –  2015`
 __Law Clerk__, Milwaukee, WI
 
-### UWM Men's Panther Soccer Club:
-`2015  –  2016`
-
-__President__, Milwaukee, WI
-
 ## FUNDED AWARDS
 ### Graduate Funding:
 `2022  –  2023`
@@ -104,6 +99,8 @@ __Christopher-Hayes, N.J.__, Haynes, S.C., Kenyon, N.J., Merchant, V.D., Schweit
 __Christopher-Hayes, N.J.__, Embury, C. M., Wiesman, A.I., May, P.E., Schantell, M., Johnson, C.M., Wolfson, S.L., Murman, D.L., Wilson, T.W. (2023). Piecing it together: hippocampal subfield profiles relate to cognitive impairment along the Alzheimer’s disease spectrum. Frontiers in Aging Neuroscience, Section Alzheimer's Disease and Related Dementias.
 
 Picci, G., Casagrande, C.C., Ott, L.R., Petro, N.M., __Christopher-Hayes, N.J.__, Johnson, H.J., Willett, M.P., Okelberry, H.J., Wang, Y.-P., Stephen, J.M., Calhoun, V.D., Wilson, T.W. (2023). Dehydroepiandrosterone mediates associations between trauma-related symptoms and anterior pituitary volume in children and adolescents. Human Brain Mapping 44, 6388–6398.
+
+<div style="page-break-after: always"></div>
 
 Rempe, M., Ott, L.R., Picci, G., Penhale, S.H., __Christopher-Hayes, N.J.__, Schantell, M., Johnson, H.J., Okelberry, H.J., Losh, K.L., Willett, M.P., Losh, R.A., Wang, Y.-P., Stephen, J.M., Calhoun, V.D., Heinrichs-Graham, E., Kurz, M.K., Wilson, T.W. (2023). Spontaneous cortical dynamics from the first years to the golden years. PNAS 120, e2212776120.
 
@@ -198,7 +195,9 @@ __Christopher-Hayes, N. J.__. Neuroimaging and Neurostimulation in Alzheimer’s
 
 ## PROFESSIONAL MEMBERSHIPS
 FLUX Society
+
 Cognitive Neuroscience Society
+
 Organization for Human Brain Mapping
 
 
@@ -277,12 +276,7 @@ __Siemens Prisma__ 3T MRI System,    __Elekta MEGIN__ MEG System,
 __Eye-Trac__ 6,    __Eyelink__ 1000,    __Nexstim__ NBS 5.1
 
 ### Languages:
-__Python, Git, Bash/Shell, Matlab, Java, HTML__
-
-### Research Systems:
-__MoinMoin Wiki (Python/Linux)__
-
-<div style="page-break-after: always"></div>
+__Python, R, Git, Bash/Shell, Matlab, Java, HTML__
 
 ## CERTIFICATIONS
 `2014 – PRSNT`
