@@ -273,7 +273,9 @@ __Christopher-Hayes, N.J.__. Neuroimaging and Neurostimulation in Alzheimer’s.
 
 ## PROFESSIONAL MEMBERSHIPS
 FLUX Society
+
 Cognitive Neuroscience Society
+
 Organization for Human Brain Mapping
 
 
