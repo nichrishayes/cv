@@ -8,6 +8,8 @@ title: Nicholas Christopher-Hayes's CV
 # Nicholas Christopher-Hayes
 <!-- <em>Curriculum Vitae</em> -->
 
+__PhD Candidate__
+
 <div id="webaddress">
 	Department of Psychology and the Center for Mind and Brain
 	
@@ -42,7 +44,7 @@ __Senior Research Project__: _Oculomotor capture by aversive stimuli_
 ## PROFESSIONAL RESEARCH EXPERIENCE
 ### MAD Lab:
 `2021  –  PRSNT`
-__Doctoral Student, (Y4)__
+__PhD Candidate, (Y4)__
 
 __PI: Dr. Simona Ghetti__
 
@@ -276,6 +278,9 @@ Organization for Human Brain Mapping
 
 
 ## JEDI/COMMUNITY OUTREACH
+*NeuroFest Brain Bar*: Outreach event for the diverse, underrepresented, and lower-income communities of people from the Sacramento area. UC Davis Center for Neuroscience partnership with SMUD Museum of Science and Curiosity (MOSAC), Sacramento
+`2023  &  2024`
+
 *What Psychological Science Tells Us about Optimizing Learning* seminar series for first-generation undergraduates
 `2024`
 
