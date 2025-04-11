@@ -191,6 +191,10 @@ __Christopher-Hayes, N.J.__, Ghetti, S. Neurocognitive Risks of Asthma During Ch
 <br>
 
 __Christopher-Hayes, N.J.__, Johnson, E.G., Mooney, L.N., Kazemi, A., Lee, J.K., Fandakova, Y., Bunge, S.A., Ghetti, S. Longitudinal Changes of Hippocampal Subfields Predict Memory Improvements at the Transition into Adolescence.
+<br>
+
+Rose, M.B., Parenteau, A.M., __Christopher-Hayes, N.J.__, Hostinar, C.E. Biopsychosocial Determinants of Adolescent Pain: Cross-sectional and Longitudinal Findings from the ABCD Study.
+<br>
 
 
 ## INTER/NATIONAL CONFERENCES
