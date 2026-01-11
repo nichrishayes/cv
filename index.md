@@ -25,7 +25,7 @@ __PhD Candidate__
 `2021  –  PRSNT`
 __PhD, Psychology, University of California, Davis__
 
-__Cognitive Neuroscience Curricula__: Fundamentals of Cognitive Neuroimaging, Cognitive and Perceptual Development, Cognitive Neuroscience, Learning and Memory Plasticity (I-III), Career Development (I-III), Memory Development (I-II)
+__Cognitive Neuroscience Curricula__: Fundamentals of Cognitive Neuroimaging, Cognitive and Perceptual Development, Cognitive Neuroscience, Cognitive and Perceptual Development, Developmental Neuroscience of Psychopathology, Neuroscience of Reinforcement Learning and Decision Making, Learning and Memory Plasticity (I-III), Career Development (I-III), Memory Development (I-II)
 
 __Statistics Curricula__: Statistical Analysis in Psychological Research, Causal Modeling and Correlational Data, Advanced Statistical Inference from Psychological Experiments, Data Visualization, Longitudinal Data Analysis, Applied Bayesian Statistics, Monte Carlo Simulation Based Research Methods
 
@@ -44,7 +44,7 @@ __Senior Research Project__: _Oculomotor capture by aversive stimuli_
 ## PROFESSIONAL RESEARCH EXPERIENCE
 ### MAD Lab:
 `2021  –  PRSNT`
-__PhD Candidate, (Y4)__
+__PhD Candidate, (Y5)__
 
 __PI: Dr. Simona Ghetti__
 
@@ -122,6 +122,15 @@ __President__, Milwaukee, WI
 
 ## FUNDED AWARDS
 ### Graduate Funding:
+`2025`
+UC Davis Psychology DEI Excellence Award __($500)__
+
+`2025`
+__Development of hippocampal subfield functional connectivity during childhood: associations with age and memory for episodic details__, UC Davis Dukes Psychology Travel Award __($1,500)__
+
+`2025`
+__Association between neuroimaging signatures of hippocampal integrity and childhood asthma__, UC Davis Psychology Summer Research Fellowship __($9,000)__, Role: Doctoral Student Trainee
+
 `2022  –  2023`
 __Investigating Hippocampal Contribution to Memory Development in Healthy Children and Children with Chronic Asthma__, Learning-Memory-Plasticity (LaMP) Program, NIH T32 MH112507 __($54,000)__, Role: Doctoral Student Trainee
 
@@ -137,6 +146,9 @@ __Support for Undergraduate Research Fellows (SURF) ($1,500)__, University of Wi
 ## PUBLICATIONS
 ### Published:
 <!-- • -->
+
+__Christopher-Hayes, N.J.__, Ghetti, S., 2025. Neurocognitive Risks of Asthma During Childhood. Developmental Cognitive Neuroscience 101564. <a href="https://doi.org/10.1016/j.dcn.2025.101564">Public Link</a>
+<br>
 
 __Christopher-Hayes, N.J.__, Haynes, S.C., Kenyon, N.J., Merchant, V.D., Schweitzer, J.B., Ghetti, S., 2024. Asthma and Memory Function in Children. JAMA Network Open 7, e2442803. <a href="https://doi.org/10.1001/jamanetworkopen.2024.42803">Public Link</a>
 <br>
@@ -187,18 +199,21 @@ Arif, Y., Wiesman, A.I., __Christopher-Hayes, N.J.__, Wilson, T.W. (2021). Aberr
 <br>
 
 ### In prep:
-__Christopher-Hayes, N.J.__, Ghetti, S. Neurocognitive Risks of Asthma During Childhood. (Under review, Developmental Cognitive Neuroscience).
+__Christopher-Hayes, N.J.__, Kazemi, A., Lee, J.K., Fandakova, Y., Bunge, S.A., Ghetti, S. Longitudinal Changes of Hippocampal Subfields Predict Memory Improvements at the Transition into Adolescence.
 <br>
 
-__Christopher-Hayes, N.J.__, Johnson, E.G., Mooney, L.N., Kazemi, A., Lee, J.K., Fandakova, Y., Bunge, S.A., Ghetti, S. Longitudinal Changes of Hippocampal Subfields Predict Memory Improvements at the Transition into Adolescence.
+__Christopher-Hayes, N.J.__, Kazemi, A., Lee, J.K., Fandakova, Y., Bunge, S.A., Ghetti, S. Development of hippocampal subfield functional connectivity during childhood: associations with age and memory for episodic details.
 <br>
 
-Rose, M.B., Parenteau, A.M., __Christopher-Hayes, N.J.__, Hostinar, C.E. Biopsychosocial Determinants of Adolescent Pain: Cross-sectional and Longitudinal Findings from the ABCD Study.
+Rose, M.B., Parenteau, A.M., __Christopher-Hayes, N.J.__, Hostinar, C.E. Biopsychosocial Determinants of Adolescent Pain: Cross-sectional and Longitudinal Findings from the ABCD Study. (submitted, PNEC)
 <br>
 
 
 ## INTER/NATIONAL CONFERENCES
-__Christopher-Hayes, N.J.__, Haynes, S.C., Kenyon, N.J., Merchant, V.D., Schweitzer, J.B., Ghetti, S. (2023). Exploring Memory Functioning in Children with Asthma: Insight from the ABCD Study. FLUX Society International Conference.
+__Christopher-Hayes, N.J.__, Johnson, E.G., Mooney, L.N., Kazemi, A., Lee, J.K., Fandakova, Y., Bunge, S.A., Ghetti, S. (2025). Development of hippocampal subfield functional connectivity during childhood: associations with age and memory for episodic details. FLUX Society International Conference (Dublin, IE).
+<br>
+
+__Christopher-Hayes, N.J.__, Haynes, S.C., Kenyon, N.J., Merchant, V.D., Schweitzer, J.B., Ghetti, S. (2023). Exploring Memory Functioning in Children with Asthma: Insight from the ABCD Study. FLUX Society International Conference (Santa Rosa, USA).
 <br>
 
 Picci, G., Petro, N.M., Casagrande, C.C., Ott, L.R., __Christopher-Hayes, N.J.__, Johnson, H.J., Willet, M.P., Okelberry, H., Wang, Y.-P., Stephen, J.M., Calhoun, V.D., Wilson, T.W. (2023). Anterior pituitary volume mediates associations between pubertal hormones and changes in dysregulation symptoms in youth. FLUX Society International Conference.
@@ -210,7 +225,7 @@ Casagrande, C.C., Picci, G., Petro, N.M., Ott, L.R., __Christopher-Hayes, N.J.__
 Picci, G., __Christopher-Hayes, N.J.__, Petro, N.M., Taylor, B.K., Eastman, J.A., Frenzel, M.R., Wang, Y.-P., Stephen, J.M., Calhoun, V.D., Wilson, T.W. (2022). High-Resolution Structural MRI Suggests Protective Effects of Amygdala and Hippocampal Subregional Volume Following Traumatic Experiences‬. Biological Psychiatry.
 <br>
 
-__Christopher-Hayes, N.J.__, Embury, C.M., Wiesman, A.I., May, P.E., Schantell, M., Johnson, C.M., Wolfson, S. L., Murman, D.L., Wilson, T.W. (2021). Piecing it together: relationships between hippocampal subfields and cognitive impairment along the Alzheimer’s disease spectrum. Alzheimer’s Association International Conference.
+__Christopher-Hayes, N.J.__, Embury, C.M., Wiesman, A.I., May, P.E., Schantell, M., Johnson, C.M., Wolfson, S. L., Murman, D.L., Wilson, T.W. (2021). Piecing it together: relationships between hippocampal subfields and cognitive impairment along the Alzheimer’s disease spectrum. Alzheimer’s Association International Conference (Denver, USA).
 <br>
 
 __Christopher-Hayes, N.J.__, Embury, C.M., Wiesman, A.I., May, P.E., Schantell, M., Johnson, C.M., Wolfson, S.L., Murman, D.L., Wilson, T.W. (2021). Hippocampal subfield profiles relate to cognitive impairment along the Alzheimer’s disease spectrum. Organization for Human Brain Mapping.
@@ -237,7 +252,7 @@ Datta, P.,  Samson, K.K., Warren, D.E., __Christopher-Hayes, N.J.__,  Malgireddy
 Warren, D.E., __Christopher-Hayes, N.J.__, Rangel, A., Stephen, J.M., Calhoun, V.D., Wang, Y.-P., Wilson, T.W. (2018). Measuring the relationship between memory performance and hippocampal structure/function in periadolescent children: a longitudinal investigation from the Dev-CoG project. Nanosymposium. Society for Neuroscience.
 <br>
 
-__Christopher-Hayes, N.J.__, Rangel, A., Stephen, J.M., Calhoun, V.D., Wang, Y.-P., Wilson, T.W., & Warren, D.E. (2017). Adolescent changes in hippocampal volume and functional connectivity affect memory performance. Organization for Human Brain Mapping.
+__Christopher-Hayes, N.J.__, Rangel, A., Stephen, J.M., Calhoun, V.D., Wang, Y.-P., Wilson, T.W., & Warren, D.E. (2017). Adolescent changes in hippocampal volume and functional connectivity affect memory performance. Organization for Human Brain Mapping (Vancouver, BC).
 <br>
 
 Spooner, R.K., __Christopher-Hayes, N.J.__, Stephen, J.M., Calhoun, V.D., Wang, Y.-P., Wilson, T.W., & Warren, D.E. (2017). Intrinsic functional connectivity of the striatum covaries with cognitive performance in adolescents. Organization for Human Brain Mapping.
@@ -274,6 +289,8 @@ __Christopher-Hayes, N.J.__. Neuroimaging and Neurostimulation in Alzheimer’s.
 ## JOURNAL REVIEW
 *Neurobiology of Aging*
 
+*Pediatric Pulmonology*
+
 
 ## PROFESSIONAL MEMBERSHIPS
 FLUX Society
@@ -284,14 +301,14 @@ Organization for Human Brain Mapping
 
 
 ## JEDI/COMMUNITY OUTREACH
+*NeuroCareer Pathways Series*, UC Davis Learning-Memory-Plasticity (LaMP) Program
+`2023  –  2025`
+
 *NeuroFest Brain Bar*: Outreach event for the diverse, underrepresented, and lower-income communities of people from the Sacramento area. UC Davis Center for Neuroscience partnership with SMUD Museum of Science and Curiosity (MOSAC), Sacramento
 `2023  &  2024`
 
 *What Psychological Science Tells Us about Optimizing Learning* seminar series for first-generation undergraduates
 `2024`
-
-*NeuroCareer Pathways Series*, UC Davis Learning-Memory-Plasticity (LaMP) Program
-`2023  –  PRSNT`
 
 *Science Education Outreach and Engagement Program*, UNMC Science Education Partnership Award (SEPA): Health and science education in Native American communities and The National Cancer Institute’s Youth Enjoy Science Research Program (YES)
 `2018  –  2019`
@@ -313,7 +330,7 @@ PSY 131, __Perception__ (Instructor, John Nadra, Ph.D.)
 `2024  &  2025`
 PSY 130, __Human Memory__ (Instructor, Andy Yonelinas, Ph.D.)
 
-`2022  –  2024`
+`2022  –  2025`
 PSY 146, __The Development of Memory__ (Instructor, Simona Ghetti, Ph.D.)
 
 `2022`
@@ -329,6 +346,14 @@ PSY 135, __Cognitive Neuroscience__ (Instructor, Evan Antzoulatos, Ph.D.)
 Arif, Y., Rempe, M., Springer, S., University of Nebraska Medical Center
 
 ### Undergraduate Research Assistants
+`2025  –  PRSNT`
+Caroline Elmer, UC Davis Human Development Major
+
+Eliza Lindquist, UC Davis Psychology Major
+
+Anya Singh, UC Davis Psychology Major
+
+
 `2022  –  2023`
 Nguyen, B.D., UC Davis Cognitive Science Major. Project: Predicting fMRI data quality with Fitbit biometrics
 
@@ -336,7 +361,7 @@ Nguyen, B.D., UC Davis Cognitive Science Major. Project: Predicting fMRI data qu
 Craft, S., Decesare, T., Rangel, A., Creighton University
 
 ### High School Research Assistants
-`2022  –  PRSNT`
+`2022  –  2024`
 Merchant, V.D. Project: Linking Chronic Asthma to Memory Impairments in Children
 
 
@@ -361,8 +386,7 @@ __Eye-Trac__ 6,    __Eyelink__ 1000,    __Nexstim__ NBS 5.1
 __Python, R, Git, Bash/Shell, Matlab, Java, HTML__
 
 ## CERTIFICATIONS
-`2014 – PRSNT`
-TMS (NBS System 5.1),    MRI Safety,    CITI
+CITI, MRI Safety, TMS (NBS System 5.1)
 
 ## HOBBIES
 Avid English Premiere League Observer, Photographer sometimes, Guitarist almost, Pianist once upon a time, Soccer when I feel young, Snowmobiling please, Boating with buoyancy, Hiking seems healthy, Programming inseparable, Opensource fanatic
@@ -408,6 +432,15 @@ Montreal Neurological Institute
 McGill University
 3801 Rue University | Montréal, QC H3A 2B4
 aiwiesman@gmail.com
+
+__Dr. Camelia Hostinar__
+Associate Professor, Psychology Department
+Developmental Psychology Area Head
+Center for Mind and Brain
+University of California, Davis
+One Shields Avenue
+Davis, CA 95616
+cehostinar@ucdavis.edu
 
 __Dr. Daniel L. Murman, MD, MS, FAAN__
 Professor, Department of Neurological Sciences
