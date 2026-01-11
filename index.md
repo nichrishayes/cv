@@ -409,14 +409,12 @@ Boys Town, NE 68010
 tony.wilson@boystown.org
 
 __Dr. Kimberley A. McAllister__
-Professor, Departments of Neurology and Neurobiology, Physiology, & Behavior
-Director, Center for Neuroscience, NIMH LaMP T32
-Co-director, UC Davis Conte Center
-Center for Neuroscience
-University of California, Davis
-1544 Newton Ct, 
-Davis, CA 95618
-kmcallister@ucdavis.edu
+Vice Provost, Research, Scholarly Inquiry & Creative Activity
+Wake Forest University
+Reynolda Hall
+1834 Wake Forest Road
+Winston-Salem, NC 27109
+mcallik@wfu.edu
 
 __Dr. Deborah E. Hannula__
 Associate Professor, Associate Chair, Department of Psychology
@@ -427,11 +425,12 @@ Milwaukee, WI 53201
 hannula@uwm.edu
 
 __Dr. Alex I. Wiesman__
-National Institutes of Health Postdoctoral Fellow
-Montreal Neurological Institute
-McGill University
-3801 Rue University | Montréal, QC H3A 2B4
-aiwiesman@gmail.com
+Assistant Professor, Department of Biomedical Physiology & Kinesiology
+Canada Research Chair (II)
+Simon Fraser University
+8888 University Dr.
+Burnaby, B.C. V5A 1S6
+alex_wiesman@sfu.ca
 
 __Dr. Camelia Hostinar__
 Associate Professor, Psychology Department
