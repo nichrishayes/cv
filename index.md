@@ -25,7 +25,7 @@ __PhD Candidate__
 `2021  –  PRSNT`
 __PhD, Psychology, University of California, Davis__
 
-__Cognitive Neuroscience Curricula__: Fundamentals of Cognitive Neuroimaging, Cognitive and Perceptual Development, Cognitive Neuroscience, Cognitive and Perceptual Development, Developmental Neuroscience of Psychopathology, Neuroscience of Reinforcement Learning and Decision Making, Learning and Memory Plasticity (I-III), Career Development (I-III), Memory Development (I-II)
+__Cognitive Neuroscience Curricula__: Fundamentals of Cognitive Neuroimaging, Cognitive and Perceptual Development, Cognitive Neuroscience, Developmental Neuroscience of Psychopathology, Neuroscience of Reinforcement Learning and Decision Making, Learning and Memory Plasticity (I-III), Career Development (I-III), Memory Development (I-II)
 
 __Statistics Curricula__: Statistical Analysis in Psychological Research, Causal Modeling and Correlational Data, Advanced Statistical Inference from Psychological Experiments, Data Visualization, Longitudinal Data Analysis, Applied Bayesian Statistics, Monte Carlo Simulation Based Research Methods
 
@@ -156,6 +156,8 @@ __Christopher-Hayes, N.J.__, Haynes, S.C., Kenyon, N.J., Merchant, V.D., Schweit
 __Christopher-Hayes, N.J.__, Embury, C. M., Wiesman, A.I., May, P.E., Schantell, M., Johnson, C.M., Wolfson, S.L., Murman, D.L., Wilson, T.W. (2023). Piecing it together: hippocampal subfield profiles relate to cognitive impairment along the Alzheimer’s disease spectrum. Frontiers in Aging Neuroscience, Section Alzheimer's Disease and Related Dementias. <a href="https://www.frontiersin.org/articles/10.3389/fnagi.2023.1212197/abstract">Public Link</a>
 <br>
 
+Kazemi, A., __Christopher-Hayes, N.J.__, Lee, J.K., Geng, J., Ghetti, S. (2023). Looking Behavior and Relational Memory:  Novel Approaches to Analyze Temporal Dynamics of Eye Movements. PsyArXiv. <a href="https://doi.org/10.31234/osf.io/7qjad">Public Link</a>
+
 Picci, G., Casagrande, C.C., Ott, L.R., Petro, N.M., __Christopher-Hayes, N.J.__, Johnson, H.J., Willett, M.P., Okelberry, H.J., Wang, Y.-P., Stephen, J.M., Calhoun, V.D., Wilson, T.W. (2023). Dehydroepiandrosterone mediates associations between trauma-related symptoms and anterior pituitary volume in children and adolescents. Human Brain Mapping 44, 6388–6398. <a href="https://doi.org/10.1002/hbm.26516">Public Link</a>
 <br>
 
@@ -203,6 +205,9 @@ __Christopher-Hayes, N.J.__, Kazemi, A., Lee, J.K., Fandakova, Y., Bunge, S.A., 
 <br>
 
 __Christopher-Hayes, N.J.__, Kazemi, A., Lee, J.K., Fandakova, Y., Bunge, S.A., Ghetti, S. Development of hippocampal subfield functional connectivity during childhood: associations with age and memory for episodic details.
+<br>
+
+Kazemi, A., __Christopher-Hayes, N.J.__, Lee, J.K., Geng, J., Bunge, S.A., Ghetti, S. Visual Exploration Metrics of Retrieval Predict Longitudinal Improvements in Spatial Memory.
 <br>
 
 Rose, M.B., Parenteau, A.M., __Christopher-Hayes, N.J.__, Hostinar, C.E. Biopsychosocial Determinants of Adolescent Pain: Cross-sectional and Longitudinal Findings from the ABCD Study. (submitted, PNEC)
